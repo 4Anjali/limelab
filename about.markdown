@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+In the face of the impending challenge of feeding a growing global population, one-third of all food produced ends up as waste.
+A notable contributor to this problem is the wastage of a third of perfectly edible and nutritious fresh produce because they do not meet the high cosmetic standards expected by consumers.
+Eliminating this wastage of imperfect produce is therefore a crucial and sustainable means to increase food supply for a growing global population.
+This can be achieved through automated sorting of good, bad and imperfect produce using automation , robotics and machine vision. A prerequisite for such automated sorting are fast and accurate machine vision algorithms for successful differentiation between good, bad and imperfect produce.
+Training such algorithms requires large image datasets. While much work has gone into collecting images of good and bad produce, to the best of our knowledge, no such dataset exists for imperfect produce items.
+In this paper, we attempt to fill this gap, by developing the first publicly available dataset of good, bad and imperfect produce items. {\color{blue}The dataset has been made publicly available on the Harvard Dataverse for use in training machine vision algorithms for sorting good, bad, and imperfect produce. It is our hope that this open dataset will contribute to improving research and practice for sorting and saving of imperfect produce in the food supply chain.
 
-You can find the source code for Minima at GitHub:
+You can find the current status of this project at:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
