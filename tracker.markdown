@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Project Tracker
+title: Project Blog
 permalink: /track/
 ---
 
-This is the Project Tracking Site.
