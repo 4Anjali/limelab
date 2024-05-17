@@ -5,12 +5,8 @@
 layout: home
 title: Status
 ---
-Currently we are focused on building a carrot sorting robotic workcell.
-Our goal is to be able to collect and serve fresh produce for the people of Detroit.
-Specific goal: serve at least 5000 boxes of fresh produce by Thanksgiving 2024.
-Below is a quick recap of where we are at rn.
 
-## Current Status:
+## Completed:
 - Camera integrated with robotic arm
 - Machine Vision model correctly detecting good, bad, imperfect carrots
 - Robotic arm moving to correct bins based on classification
