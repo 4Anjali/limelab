@@ -17,7 +17,7 @@ Below is a quick recap of where we are at rn.
 
 ## To Do:
 - Make end of gripper work for carrots
-_ Figure out way for 360 degree view of carrots (use multiple cameras?)
+- Figure out way for 360 degree view of carrots (use multiple cameras?)
 
 ## Looking For:
 - Mechanism Design Experts
