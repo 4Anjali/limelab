@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Do This?"
-date:   2024-05-16 22:23:57 -0400
+date:   2020-10-10 22:23:57 -0400
 categories: Personal
 image: /assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg
 blurb: "All I can think of is food. The pandemic reset my relationship with food..."
