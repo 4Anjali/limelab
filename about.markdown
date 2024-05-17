@@ -13,4 +13,5 @@ In this paper, we attempt to fill this gap, by developing the first publicly ava
 
 ## Project#01: Serving Fresh Produce in Detroit
 Detroit is a food dessert. Significant parts of Detroit do not have access to fresh produce. As a first pilot, we intend to serve upto 5,000 boxes of fresh produce by 2024 Thanksgiving.
-Our goal is to build a sustainable ecosystem of affordable fresh produce reaching its citizens. You can find the current status of this project here - . Click here to see how you can contribute to this project - .
+Our goal is to build a sustainable ecosystem of affordable fresh produce reaching its citizens. For current status of this project, [click here]({{ "/" | relative_url }})
+Click here to see how you can contribute to this project - .
