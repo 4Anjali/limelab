@@ -28,3 +28,29 @@ body {
   text-decoration: none;
   color: #0073e6;
 }
+
+
+.post-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.blurb {
+  font-size: 18px;
+  color: #777;
+  font-style: italic;
+}
+
+article {
+  margin-bottom: 40px;
+}
+
+article header {
+  margin-bottom: 20px;
+}
+
+article .content {
+  font-size: 16px;
+  color: #333;
+}
