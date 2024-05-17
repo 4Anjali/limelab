@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Why Do This?"
 date:   2024-05-16 22:23:57 -0400
-categories: jekyll update
+categories: Personal
+image: /assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg
+blurb: "All I can think of is food. The pandemic reset my relationship with food..."
 ---
+
+
+![PandeKitchen](/assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg)
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
