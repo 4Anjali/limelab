@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Project Team
-menu_title: Team
+title: Team
 
 permalink: /team/
 ---
