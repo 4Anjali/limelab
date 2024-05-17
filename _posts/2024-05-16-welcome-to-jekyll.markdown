@@ -3,9 +3,13 @@ layout: post
 title:  "Why Do This?"
 date:   2024-05-16 22:23:57 -0400
 categories: Personal
-image: /assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg
+image: {{ "/assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg" | relative_url }}
 blurb: "All I can think of is food. The pandemic reset my relationship with food..."
 ---
+
+![PandeKitchen]({{ "/assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg" | relative_url }})
+
+All I can think of is food. What am I going to get next? Is it going to be the same bland porridge and some pickle?  I'm sick of this porridge business. And then other times I feel guilt that with so many people dying around us, all I can think of is food. I think when you don't have something, it overpowers your mind. And, something as basic as food..yes, it does affect you. But I should not be complaining.
 
 
 ![PandeKitchen](/assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg)
