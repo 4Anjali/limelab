@@ -15,7 +15,7 @@ title: Status
 - Make end of gripper work for carrots
 - Figure out way for 360 degree view of carrots (use multiple cameras?)
 
-- ## Future Work:
+## Future Work:
 - Make end of gripper work for carrots
 - Figure out way for 360 degree view of carrots (use multiple cameras?)
 
