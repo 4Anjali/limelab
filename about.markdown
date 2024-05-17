@@ -10,10 +10,10 @@ Eliminating this wastage of imperfect produce is therefore a crucial and sustain
 This can be achieved through automated sorting of good, bad and imperfect produce using automation , robotics and machine vision. 
 
 ### What
-This project is aimed at developing a machine vision enabled robotic work cell for sorting and saving imperfect produce.
-Given our location in Detroit, we starting with a pilot project to serve fresh produce in the city of Detroit, which is an unqualified food dessert. Our specific and measurable goals are:
+This goal of the project is to develop a machine vision enabled robotic work cell for sorting and saving imperfect produce.
+Given our location in Detroit, we are starting with a pilot project to serve fresh produce in the city of Detroit, which is an unqualified food dessert. Our specific and measurable goals are:
 - Create a fully functioning robotic sorter for carrots and strawberries
-- Partner with at least 5 local farms
+- Partner with at least 5 local farms for saving imperfect produce
 - Serve at least 5,000 boxes of fresh produce in Detroit by Thanksgiving (11/28/24)
 - Develop a sustainbale and viable distribution system in Detorit to eliminate food dessert zones
   
