@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: Status
 ---
 Currently we are focused on building a carrot sorting robotic workcell.
 Our goal is to be able to collect and serve fresh produce for the people of Detroit.
