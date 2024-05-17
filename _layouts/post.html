@@ -5,6 +5,7 @@ layout: base
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="blurb">{{ page.blurb }}</p> <!-- Add the blurb below the title -->
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -26,6 +27,11 @@ layout: base
       {%- endif -%}</p>
   </header>
 
+<!-- Place the image after the blurb and before the content -->
+  {% if page.image %}
+  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="post-image">
+  {% endif %}
+  
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
