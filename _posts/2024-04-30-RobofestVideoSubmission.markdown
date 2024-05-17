@@ -3,7 +3,7 @@ layout: post
 title: "ROBOfest World Championships Video Submission"
 date: 2024-04-30 22:23:57 -0400
 categories: Personal
-image: /assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg
+image: /assets/images/ROBOfest-VidSubmit-ScreenShot.png
 blurb: "My Workcell Video Submission to ROBOfest Contest"
 ---
 
