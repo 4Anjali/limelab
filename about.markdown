@@ -11,11 +11,12 @@ This can be achieved through automated sorting of good, bad and imperfect produc
 
 ### What
 This project is aimed at developing a machine vision enabled robotic work cell for sorting and saving imperfect produce.
-
-### Project#01: Serve Fresh Produce in Detroit
-Detroit is a food dessert. Significant parts of Detroit do not have access to fresh produce. As a first pilot, we intend to serve upto 5,000 boxes of fresh produce by 2024 Thanksgiving.
-Our goal is to build a sustainable ecosystem of affordable fresh produce reaching its citizens. 
-
+Given our location in Detroit, we starting with a pilot project to serve fresh produce in the city of Detroit, which is an unqualified food dessert. Our specific and measurable goals are:
+- Create a fully functioning robotic sorter for carrots and strawberries
+- Partner with at least 5 local farms
+- Serve at least 5,000 boxes of fresh produce in Detroit by Thanksgiving (11/28/24)
+- Develop a sustainbale and viable distribution system in Detorit to eliminate food dessert zones
+  
 ### Current Status
 For current status of this project, [click here]({{ "/" | relative_url }})
 Click here to see how you can contribute to this project - .
