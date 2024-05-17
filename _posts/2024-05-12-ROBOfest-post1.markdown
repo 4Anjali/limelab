@@ -7,6 +7,7 @@ image: /assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg
 blurb: "Presenting my food sorter robotic work cell at the 2024 ROBOFEST world championship..."
 ---
 
+
 Presenting my robotic fruit sorter work cell at the 2024 ROBOFEST world championship held in the field house of Lawrence Technological University in Detroit, Michigan.
 
 <!-- Embed the YouTube video here -->
