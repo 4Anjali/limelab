@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Proj. Tracker
+title: Project Tracker
 permalink: /track/
 ---
 
