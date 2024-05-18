@@ -42,6 +42,21 @@ body {
   font-style: italic;
 }
 
+.post-tags {
+  margin-top: 20px;
+}
+
+.post-tags a {
+  text-decoration: none;
+  color: #0073e6;
+  margin-right: 5px;
+}
+
+.post-tags a:hover {
+  text-decoration: underline;
+}
+
+
 article {
   margin-bottom: 40px;
 }
