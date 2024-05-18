@@ -5,7 +5,7 @@ date:   2020-10-10 22:23:57 -0400
 categories: Personal
 image: /assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg
 blurb: "All I can think of is food. The pandemic reset my relationship with food..."
-tags: ["Save-Food-Project", "my-journey", "robotics"]
+tags: ["save-food-project", "my-journey", "robotics"]
 ---
 
 ![PandeKitchen]({{ "/assets/images/Pandemic-Kitchen1-IMG_20200224.jpeg" | relative_url }})
