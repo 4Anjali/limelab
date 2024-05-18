@@ -5,6 +5,7 @@ date: 2024-01-05 22:23:57 -0400
 categories: Personal
 image: /assets/images/FanucRobotics-RobotLiftsCorvette-20240105_181450.jpg
 blurb: "This monster robot has a payload capacity of 2.3 tons and can easily lift a Corvette…"
+tags: ["Save-Food-Project", "robotics", "robofest", "LIME Lab", "nostalgia", "my-journey"]
 ---
 
 It was fun moving this monster robot - it can easily lift a Corvette and is used by TESLA on its car assembly lines.
