@@ -9,7 +9,7 @@ gem "minima", "~> 2.5"
 # Jekyll plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll/tagging"  # Gem for tagging in blog posts
+  gem "jekyll-tagging"  # Gem for tagging in blog posts
 end
 
 # Windows and JRuby dependencies
