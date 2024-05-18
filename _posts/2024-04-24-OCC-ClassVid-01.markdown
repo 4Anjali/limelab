@@ -5,7 +5,7 @@ date:   2024-04-24 22:23:57 -0400
 categories: Personal
 image: /assets/images/Screenshot4OCC-ClassVid01.png
 blurb: "Presenting my food sorter robotic work cell at the 2024 ROBOFEST world championship..."
-tags: ["Save-Food-Project", "robotics", "robofest", "LIME Lab", "nostalgia", "my-journey"]
+tags: ["Save-Food-Project", "robotics", "robofest", "LIMElab", "nostalgia", "my-journey"]
 ---
 
 Presenting my robotic fruit sorter work cell at the 2024 ROBOFEST world championship held in the field house of Lawrence Technological University in Detroit, Michigan.
