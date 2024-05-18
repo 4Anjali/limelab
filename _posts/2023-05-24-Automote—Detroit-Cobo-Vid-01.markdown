@@ -5,7 +5,7 @@ date:   2023-05-24 22:23:57 -0400
 categories: Personal
 image: /assets/images/Automate-2023-Screenshot-4Vid01.png
 blurb: “2023 Automate Show - Robotic System for Medical Diagnostics…”
-tags: ["my-journey”,”robotics”]
+tags: ["my-journey","robotics"]
 ---
 
 Automate 2023 @ COBO Hall, Detroit - Robotic System for handling Petri dishes in medical labs.
