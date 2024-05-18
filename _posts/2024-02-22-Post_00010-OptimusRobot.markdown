@@ -5,6 +5,7 @@ date:   2024-02-22 14:23:57 -0400
 categories: Personal
 image: /assets/images/Musk-Optimus-PXL_20240222_221147286.jpg
 blurb: “And In a Mall Near You - TESLA’s Optimus Robot in the Tesla Dealership in Somerset Mall..”
+tags: ["Save-Food-Project", "robotics", "robofest", "LIME Lab", "nostalgia", "my-journey"]
 ---
 
 ![ROBOFEST-GroupShot]({{ "/assets/images/Musk-Optimus-PXL_20240222_221147286.jpg" | relative_url }})
