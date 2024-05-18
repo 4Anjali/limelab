@@ -5,7 +5,7 @@ date: 2024-04-30 22:23:57 -0400
 categories: Personal
 image: /assets/images/ROBOFEST-VidSbmit-Screenshot.png
 blurb: "My Workcell Video Submission to ROBOfest Contest"
-tags: ["Save-Food-Project", "robotics", "robofest", "LIMElab", "nostalgia", "my-journey"]
+tags: ["save-food-project", "robotics", "robofest", "limelab", "nostalgia", "my-journey"]
 ---
 
 Here is a video of what I submitted to the ROBOFEST World Championships.
