@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  “Learning to Control FANUC Robots @ OCC Robotics Lab”
-date:   2024-02-12 22:23:57 -0400
+date:   2024-02-12 14:23:57 -0400
 categories: Personal
 image: /assets/images/Screenshot4OCC-ClassVid01.png
 blurb: "Working with FANUC robots as part of my industrial robotics class at the local Community College..."
