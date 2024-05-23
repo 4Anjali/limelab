@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Robotic Workcell Buildout: Step#01: Determine Optimal Location for Robot in Workcell”
+title:  "Robotic Workcell Buildout: Step#01: Determine Optimal Location for Robot in Workcell"
 date:   2024-01-12 22:23:57 -0400
 categories: Personal
 image: /assets/images/Screenshot-WorkcellBuildOut-Step01.png
