@@ -29,7 +29,7 @@ layout: base
   </header>
   
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    {{ content | replace: '<iframe', '<div class="responsive-video"><iframe' | replace: '</iframe>', '</iframe></div>' }}
   </div>
 
   <!-- Display tags 
