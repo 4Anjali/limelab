@@ -6,9 +6,6 @@ layout: base
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">
       {{ page.title | escape }}
-      {% if page.content contains "youtube.com" %}
-        <img src="{{ site.baseurl }}/assets/images/Youtube-Play-Icon.png" alt="YouTube Play Icon" style="width: 24px; height: 24px; vertical-align: middle;">
-      {% endif %}
     </h1>
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
