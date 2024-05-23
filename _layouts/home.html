@@ -28,6 +28,9 @@ layout: base
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
+            {% if post.content contains "youtube.com" %}
+              <img src="{{ site.baseurl }}/assets/images/Youtube-Play-Icon.png" alt="YouTube Play Icon" style="width: 24px; height: 24px; vertical-align: middle;">
+            {% endif %}
           </a>
         </h3>
         {% if post.blurb %}
