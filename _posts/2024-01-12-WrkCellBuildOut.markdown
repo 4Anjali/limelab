@@ -11,6 +11,6 @@ The robot should be able to reach all the required positions for successful pick
 There should not be any interference between the robot and other components and peripherals on the work surface, either when the robot is stationary or when it is moving.
 
 <!-- Embed the YouTube video here -->
-<div class="video-container">
+<div class="responsive-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3eA-bqIa78I?si=SH5t6q5aga3LXWin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
