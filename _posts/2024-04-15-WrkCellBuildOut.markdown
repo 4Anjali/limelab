@@ -17,6 +17,6 @@ FANUC was also my first choice because I’ve trained on FANUC robots as part of
 I might still go for FANUC robots (for their reliability) in a final industrial grade version of my robotic solution. However, for the piloting phase I decided to go for a cheaper alternative with the knowledge that I’ll have to do some hacking around to figure out the robot. Those are the choices I’ve made and I’m happy with them. Your unique situation might need different choices.
 
 <!-- Embed the YouTube video here -->
-<div class="video-container">
+<div class="responsive-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I38oKfu_7nI?si=kBC6A0czIj_lAlnx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
