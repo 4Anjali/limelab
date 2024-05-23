@@ -5,7 +5,7 @@ date:   2024-04-15 22:23:57 -0400
 categories: Personal
 image: /assets/images/Screenshot-WorkcellBuildOut-Step05.png
 blurb: "Step#05: In which I tame the robot - i.e. figure out ways to make the robot dance to my tunes..."
-—
+---
 
 In this step I trudge through the manuals and do extensive trial and error to figure out the way to control the robot.
 This video does not quite show the amount of trial and error and working with the robot support call center that went into getting it to work.
