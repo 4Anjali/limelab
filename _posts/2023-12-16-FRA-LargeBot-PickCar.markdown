@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FANUC’s Giant Robot: It can easily lift a Corvette and take it for a spin"
-date: 2024-01-05 22:23:57 -0400
+date: 2023-12-16 22:23:57 -0400
 categories: Personal
 image: /assets/images/FanucRobotics-RobotLiftsCorvette-20240105_181450.jpg
 blurb: "This monster robot has a payload capacity of 2.3 tons and can easily lift a Corvette…"
