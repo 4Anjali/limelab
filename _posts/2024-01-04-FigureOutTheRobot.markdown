@@ -6,7 +6,7 @@ categories: Personal
 image: /assets/images/DORNA-Robot-OpenUp-2024-04-24-IMG_2176.JPG
 blurb: “The robot has the mechanical arm and the controller..."
 ---
-![Checking Out The Robot]({{ "/assets/images/DORNA-Robot-OpenUp-2024-04-24-IMG_2176.JPG" | relative_url }})
+![Checking Out The Robot]({{ "/assets/images/DORNA-Robot-OpenUp-2024-04-24-IMG_2188.JPG" | relative_url }})
 
 The robot has the mechanical arm and the controller. It is kind of interesting how having a different model than FANUC and having a more open system than FANUC helped bring together many of the ideas taught in the robotics class at the community college. And of course I have Tweety - my unconditionally super-enthusiastic FanGirl :):):):).     Yay Go Anjali..you can do it !! :):).  
 
