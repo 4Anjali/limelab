@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Robotic Workcell Buildout: Step#04: Drill holes in work surface to route cables under the work surface”
+title:  "Robotic Workcell Buildout: Step#04: Drill holes in work surface to route cables under the work surface"
 date:   2024-04-05 22:23:57 -0400
 categories: Personal
 image: /assets/images/Screenshot-WorkcellBuildOut-Step04.png
