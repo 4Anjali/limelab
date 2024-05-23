@@ -10,4 +10,6 @@ tags: ["save-food-project", "robotics", "robofest", "limelab", "nostalgia", "my-
 
 It was fun moving this monster robot - it can easily lift a Corvette and is used by TESLA on its car assembly lines.
 
+<div class="responsive-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2cqDAz9wsY?si=9iBNPBYU1atYL9GR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
