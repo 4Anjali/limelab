@@ -4,7 +4,7 @@ title:  "Checking out the e-do robot for my robotic workcell"
 date:   2023-12-20 22:23:57 -0400
 categories: Personal
 image: /assets/images/2023-12-20_144103918-E-Do-Robot-Pix.jpg
-blurb: "Presenting my food sorter robotic work cell at the 2024 ROBOFEST world championship..."
+blurb: "Checking out the e-Do robot from COMAUfor my workcell..."
 ---
 ![The-edo-robot]({{ "/assets/images/2023-12-20_144103918-E-Do-Robot-Pix.jpg" | relative_url }})
 The e-Do - one of the more affordable robotic arms from a large robotics firm. However, the e-do seems designed a lot for teaching robotics courses in class room settings. I’ve been eyeing this for a while for teaching robotics as part of my LIME Lab courses.
