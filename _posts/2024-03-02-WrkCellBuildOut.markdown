@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Robotic Workcell Buildout: Step#03: Secure robot to base structure of robotic workcell”
+title:  "Robotic Workcell Buildout: Step#03: Secure robot to base structure of robotic workcell"
 date:   2024-03-02 22:23:57 -0400
 categories: Personal
 image: /assets/images/Screenshot-WorkcellBuildOut-Step03.png
