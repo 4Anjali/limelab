@@ -4,7 +4,7 @@ title:  “Workcell Gripper Vacuum Equipment”
 date:   2024-05-14 14:23:57 -0400
 categories: Personal
 image: /assets/images/AirCompressor-IMG_7847.JPG
-blurb: “Bought this compressor for the vacuum gripper..”
+blurb: “Let's make the robot vaccum gripper work..”
 ---
 ![VacumGripperCompressor]({{ "/assets/images/AirCompressor-IMG_7847.JPG" | relative_url }})  
 
