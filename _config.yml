@@ -18,14 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Project- AI and Robotics to Save Food
+title: LIME Lab Work
 email: anjali.sharma@limelab.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Imperfect Foods Project Site.
-baseurl: "/imperfectrobotics" # the subpath of your site, e.g. /blog
+  LIME Lab Project Site.
+baseurl: "" # remove the subpath to stop the redirection
 url: "https://4Anjali.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll/tagging
+
+
 
 # Build settings
 theme: minima
