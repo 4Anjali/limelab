@@ -22,7 +22,7 @@ title: LIME Lab Work
 email: anjali.sharma@limelab.org
 description: >- # this means to ignore newlines until "baseurl:"
   LIME Lab Project Site.
-baseurl: "" # remove the subpath to stop the redirection
+baseurl: "/limelab" # remove the subpath to stop the redirection
 url: "https://4Anjali.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
