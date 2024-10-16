@@ -25,16 +25,19 @@ If you are interested in contributing to this initiative, please write to anjali
     <div class="circle">
         <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">YouTube Video</a>
         <div class="horizontal-line"></div>
+        <div class="tooltip-box">YouTube Video</div>
     </div>
     <!-- Event 2 -->
     <div class="circle">
         <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid2</a>
         <div class="horizontal-line"></div>
+        <div class="tooltip-box">Vid2</div>
     </div>
     <!-- Event 3 -->
     <div class="circle">
         <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid3</a>
         <div class="horizontal-line"></div>
+        <div class="tooltip-box">Vid3</div>
     </div>
 </div>
 
@@ -94,23 +97,23 @@ If you are interested in contributing to this initiative, please write to anjali
         background-color: #007bff;
     }
 
-    /* Tooltip for the circle links */
-    .tooltip {
+    /* Tooltip box for the circle links */
+    .tooltip-box {
         position: absolute;
-        top: -30px;
-        left: 100%; /* Position to the right of the vertical line */
-        transform: translateX(20px); /* Adjust horizontal distance from the bubble */
-        padding: 10px 20px; /* Increase padding to make the tooltip bigger */
+        top: 50%;
+        left: 150%; /* Shift to the right by another inch */
+        transform: translateY(-50%);
+        padding: 20px 40px; /* Increase size */
         background-color: #007bff;
         color: white;
         border-radius: 3px;
         text-align: center;
-        font-size: 14px; /* Increase font size */
+        font-size: 16px; /* Increase font size */
         display: none;
         z-index: 2;
     }
 
-    .circle:hover .tooltip {
+    .circle:hover .tooltip-box {
         display: block;
     }
 
@@ -119,7 +122,7 @@ If you are interested in contributing to this initiative, please write to anjali
         position: absolute;
         top: 50%;
         left: 100%;
-        width: 20px; /* Adjust the width as needed */
+        width: 100px; /* Adjust the width as needed */
         height: 2px;
         background-color: #007bff;
         transform: translateY(-50%);
