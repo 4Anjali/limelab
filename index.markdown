@@ -79,10 +79,22 @@ If you are interested in contributing to this initiative, please write to anjali
         margin: 60px 0; /* Increased margin to separate the bubbles vertically */
     }
 
+    .circle a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: transparent; /* Hide the link text */
+    }
+
+    .circle a:hover {
+        background-color: #007bff;
+    }
+
     /* Tooltip for the circle links */
     .tooltip {
         position: absolute;
-        top: -30px;
+        top: 25px;
         left: 50%;
         transform: translateX(-50%);
         padding: 5px 10px;
@@ -96,13 +108,5 @@ If you are interested in contributing to this initiative, please write to anjali
 
     .circle:hover .tooltip {
         display: block;
-    }
-
-    .circle a {
-        text-decoration: none;
-        color: #007bff;
-        display: block;
-        width: 100%;
-        height: 100%;
     }
 </style>
