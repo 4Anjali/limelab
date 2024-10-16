@@ -76,7 +76,7 @@ If you are interested in contributing to this initiative, please write to anjali
         border: 3px solid #007bff;
         border-radius: 50%;
         z-index: 1;
-        margin: 20px 0;
+        margin: 60px 0; /* Increased margin to separate the bubbles vertically */
     }
 
     /* Tooltip for the circle links */
