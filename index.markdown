@@ -117,11 +117,13 @@ If you are interested in contributing to this initiative, please write to anjali
     }
 
     .left .content {
-        left: calc(-100% - 40px);
+        margin-right: 60px;
+        text-align: right;
     }
 
     .right .content {
-        left: calc(50% + 20px);
+        margin-left: 60px;
+        text-align: left;
     }
 
     /* Hover effect */
