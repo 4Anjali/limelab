@@ -24,14 +24,17 @@ If you are interested in contributing to this initiative, please write to anjali
     <!-- Event 1 -->
     <div class="circle">
         <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">YouTube Video</a>
+        <div class="horizontal-line"></div>
     </div>
     <!-- Event 2 -->
     <div class="circle">
         <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid2</a>
+        <div class="horizontal-line"></div>
     </div>
     <!-- Event 3 -->
     <div class="circle">
         <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid3</a>
+        <div class="horizontal-line"></div>
     </div>
 </div>
 
@@ -94,19 +97,31 @@ If you are interested in contributing to this initiative, please write to anjali
     /* Tooltip for the circle links */
     .tooltip {
         position: absolute;
-        top: 25px;
-        left: 50%;
-        transform: translateX(-50%);
-        padding: 5px 10px;
+        top: -30px;
+        left: 100%; /* Position to the right of the vertical line */
+        transform: translateX(20px); /* Adjust horizontal distance from the bubble */
+        padding: 10px 20px; /* Increase padding to make the tooltip bigger */
         background-color: #007bff;
         color: white;
         border-radius: 3px;
         text-align: center;
-        font-size: 12px;
+        font-size: 14px; /* Increase font size */
         display: none;
+        z-index: 2;
     }
 
     .circle:hover .tooltip {
         display: block;
+    }
+
+    /* Horizontal line connecting the bubble to the tooltip */
+    .horizontal-line {
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        width: 20px; /* Adjust the width as needed */
+        height: 2px;
+        background-color: #007bff;
+        transform: translateY(-50%);
     }
 </style>
