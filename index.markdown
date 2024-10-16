@@ -98,9 +98,9 @@ If you are interested in contributing to this initiative, please write to anjali
         position: absolute;
         top: 15px;
         left: 50%;
+        transform: translateX(-50%);
         width: 20px;
         height: 20px;
-        margin-left: -10px;
         background-color: white;
         border: 3px solid #007bff;
         border-radius: 50%;
