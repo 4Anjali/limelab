@@ -67,28 +67,16 @@
 <!-- Timeline section starts here -->
 <div class="timeline">
     <!-- Event 1 -->
-    <div class="container left">
-        <div class="circle"></div>
-        <div class="tooltip">YouTube Video</div>
-        <div class="content">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank">YouTube Video</a>
-        </div>
+    <div class="circle">
+        <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">YouTube Video</a>
     </div>
     <!-- Event 2 -->
-    <div class="container right">
-        <div class="circle"></div>
-        <div class="tooltip">PDF Document</div>
-        <div class="content">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank">Vid2</a>
-        </div>
+    <div class="circle">
+        <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid2</a>
     </div>
     <!-- Event 3 -->
-    <div class="container left">
-        <div class="circle"></div>
-        <div class="tooltip">External Website</div>
-        <div class="content">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank">Vid3</a>
-        </div>
+    <div class="circle">
+        <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid3</a>
     </div>
 </div>
 
@@ -121,26 +109,9 @@
         margin-left: -3px;
     }
 
-    /* Timeline event container */
-    .container {
-        padding: 10px 40px;
-        position: relative;
-        background-color: inherit;
-        width: 50%;
-    }
-
-    /* Place the containers to the left and right */
-    .left {
-        left: 0;
-    }
-
-    .right {
-        left: 50%;
-    }
-
     /* Add circles for the timeline events */
     .circle {
-        position: absolute;
+        position: relative;
         top: 15px;
         left: 50%;
         transform: translateX(-50%);
@@ -150,53 +121,34 @@
         border: 3px solid #007bff;
         border-radius: 50%;
         z-index: 1;
+        margin: 20px 0;
     }
 
-    /* Timeline event content */
-    .content {
-        padding: 20px;
-        background-color: white;
-        position: relative;
-        border-radius: 6px;
-        border: 1px solid #007bff;
-    }
-
-    .left .content {
-        margin-right: 60px;
-        text-align: right;
-    }
-
-    .right .content {
-        margin-left: 60px;
-        text-align: left;
-    }
-
-    /* Hover effect */
+    /* Tooltip for the circle links */
     .tooltip {
         position: absolute;
-        display: none;
-        top: -50px;
+        top: -30px;
         left: 50%;
         transform: translateX(-50%);
-        padding: 10px;
-        background-color: #333;
-        color: #fff;
+        padding: 5px 10px;
+        background-color: #007bff;
+        color: white;
+        border-radius: 3px;
+        text-align: center;
         font-size: 12px;
-        border-radius: 5px;
+        display: none;
     }
 
-    .circle:hover + .tooltip {
+    .circle:hover .tooltip {
         display: block;
     }
 
-    /* Hyperlink style */
-    .circle:hover {
-        background-color: #007bff;
-    }
-
-    .content a {
+    .circle a {
         text-decoration: none;
         color: #007bff;
+        display: block;
+        width: 100%;
+        height: 100%;
     }
 </style>
 
