@@ -309,12 +309,12 @@ If you are interested in contributing to this initiative, please write to anjali
     /* Slanting branch line (top) */
     .branch-line-top {
         position: absolute;
-        width: 100px;
+        width: 200px;
         height: 6px;
         background-color: #007bff;
         top: 50%;
         left: calc(50% - 3px);
-        transform: translateY(-35%) rotate(-45deg);
+        transform: translateY(-5%) rotate(-45deg);
     }
 
     /* Slanting branch line (bottom) */
