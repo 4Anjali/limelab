@@ -354,10 +354,10 @@
     /* Slanting branch line (top) */
     .branch-line-top {
         position: absolute;
-        width: 200px;
+        width: 60px;
         height: 6px;
         background-color: #007bff;
-        top: 1%;
+        top: 40%; /* Decreased top value to move it up */
         left: calc(50% - 3px);
         transform: translateY(-35%) rotate(-45deg);
     }
@@ -365,12 +365,22 @@
     /* Slanting branch line (bottom) */
     .branch-line-bottom {
         position: absolute;
-        width: 200px;
+        width: 80px; /* Increased width to make the line longer */
         height: 6px;
         background-color: #007bff;
-        top: 80%;
+        top: 60%; /* Increased top value to shift the line down */
         left: calc(50% - 3px);
-        transform: translateY(45%) rotate(45deg);
+        transform: translateY(45%) rotate(45deg); /* Increased translateY value to shift it further down */
+    }
+
+    /* Hide vertical line above the first bubble */
+    .timeline-event.branch:first-of-type .branch-line-vertical {
+        display: none;
+    }
+
+    /* Hide vertical line below the last bubble */
+    .timeline-event.branch:last-of-type .branch-line-vertical {
+        display: none;
     }
 </style>
 
