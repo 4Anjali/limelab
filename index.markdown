@@ -309,7 +309,7 @@ If you are interested in contributing to this initiative, please write to anjali
     /* Slanting branch line (top) */
     .branch-line-top {
         position: absolute;
-        width: 60px;
+        width: 200px;
         height: 6px;
         background-color: #007bff;
         top: 40%; /* Decreased top value to move it up */
@@ -320,7 +320,7 @@ If you are interested in contributing to this initiative, please write to anjali
     /* Slanting branch line (bottom) */
     .branch-line-bottom {
         position: absolute;
-        width: 80px; /* Increased width to make the line longer */
+        width: 200px; /* Increased width to make the line longer */
         height: 6px;
         background-color: #007bff;
         top: 60%; /* Increased top value to shift the line down */
