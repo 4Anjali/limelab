@@ -168,7 +168,6 @@ If you are interested in contributing to this initiative, please write to anjali
 </div>
 
 <!-- CSS styles for the timeline -->
-<!-- Updated branch line styles -->
 <style>
     * {
         box-sizing: border-box;
@@ -300,7 +299,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .branch-line-vertical {
         position: absolute;
         width: 6px;
-        height: 80px; /* Adjusted height */
+        height: 80px;
         background-color: #007bff;
         top: 50%;
         left: calc(50% - 3px);
@@ -310,22 +309,22 @@ If you are interested in contributing to this initiative, please write to anjali
     /* Slanting branch line (top) */
     .branch-line-top {
         position: absolute;
-        width: 60px; /* Adjusted width */
+        width: 60px;
         height: 6px;
         background-color: #007bff;
-        top: 50%; /* Matches the vertical center of the bubble */
-        left: calc(50% - 3px); /* Start from the bubble */
-        transform: translateY(-35%) rotate(-45deg); /* Aligns the line properly */
+        top: 50%;
+        left: calc(50% - 3px);
+        transform: translateY(-35%) rotate(-45deg);
     }
 
     /* Slanting branch line (bottom) */
     .branch-line-bottom {
         position: absolute;
-        width: 60px; /* Adjusted width */
+        width: 60px;
         height: 6px;
         background-color: #007bff;
-        top: 50%; /* Matches the vertical center of the bubble */
-        left: calc(50% - 3px); /* Start from the bubble */
-        transform: translateY(35%) rotate(45deg); /* Aligns the line properly */
+        top: 50%;
+        left: calc(50% - 3px);
+        transform: translateY(35%) rotate(45deg);
     }
 </style>
