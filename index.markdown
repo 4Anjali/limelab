@@ -200,7 +200,7 @@ If you are interested in contributing to this initiative, please write to anjali
     }
 
     .timeline-event.branch {
-        margin-left: 60%; /* Position the branch on the right side */
+        margin-left: 40%; /* Position the branch on the left side */
     }
 
     .timeline-event.branch::after {
@@ -210,8 +210,8 @@ If you are interested in contributing to this initiative, please write to anjali
         background-color: #007bff;
         top: 0;
         bottom: 0;
-        left: -50%; /* Connect the branch to the main line */
-        margin-left: -3px;
+        right: -50%; /* Connect the branch to the main line */
+        margin-right: -3px;
     }
 
     .textbox {
@@ -293,6 +293,13 @@ If you are interested in contributing to this initiative, please write to anjali
         width: 100px;
         height: 2px;
         background-color: #007bff;
+        transform: translateY(-50%);
+    }
+
+    /* Styles for the branch line */
+    .timeline-event.branch .horizontal-line {
+        top: 50%;
+        right: 100%;
         transform: translateY(-50%);
     }
 </style>
