@@ -76,6 +76,7 @@ If you are interested in contributing to this initiative, please write to anjali
             </a>
             <div class="horizontal-line"></div>
         </div>
+        <div class="branch-line"></div>
     </div>
     <!-- Branch Event 2 -->
     <div class="timeline-event branch">
@@ -90,6 +91,7 @@ If you are interested in contributing to this initiative, please write to anjali
             </a>
             <div class="horizontal-line"></div>
         </div>
+        <div class="branch-line"></div>
     </div>
     <!-- Event 4 -->
     <div class="timeline-event">
@@ -200,16 +202,16 @@ If you are interested in contributing to this initiative, please write to anjali
     }
 
     .timeline-event.branch {
-        margin-left: 40%; /* Position the branch on the left side */
+        margin-right: 40%; /* Position the branch on the left side */
     }
 
-    .timeline-event.branch::after {
+    .timeline-event.branch::before {
         content: '';
         position: absolute;
         width: 6px;
         background-color: #007bff;
         top: 0;
-        bottom: 0;
+        bottom: 50%;
         right: -50%; /* Connect the branch to the main line */
         margin-right: -3px;
     }
@@ -301,5 +303,15 @@ If you are interested in contributing to this initiative, please write to anjali
         top: 50%;
         right: 100%;
         transform: translateY(-50%);
+    }
+
+    .branch-line {
+        position: absolute;
+        width: 6px;
+        background-color: #007bff;
+        top: 50%;
+        bottom: -50%;
+        left: 50%;
+        transform: translateX(-50%);
     }
 </style>
