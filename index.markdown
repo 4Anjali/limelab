@@ -314,7 +314,7 @@ If you are interested in contributing to this initiative, please write to anjali
         background-color: #007bff;
         top: 1%;
         left: calc(50% - 3px);
-        transform: translateY(-5%) rotate(-45deg);
+        transform: translateY(-35%) rotate(-45deg);
     }
 
     /* Slanting branch line (bottom) */
@@ -323,7 +323,7 @@ If you are interested in contributing to this initiative, please write to anjali
         width: 200px;
         height: 6px;
         background-color: #007bff;
-        top: 65%;
+        top: 80%;
         left: calc(50% - 3px);
         transform: translateY(45%) rotate(45deg);
     }
