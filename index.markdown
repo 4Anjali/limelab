@@ -308,26 +308,26 @@ If you are interested in contributing to this initiative, please write to anjali
 
     /* Slanting branch line (top) */
     .branch-line-top {
-    position: absolute;
-    width: 200px; /* Adjusted width to make the line longer */
-    height: 6px;
-    background-color: #007bff;
-    top: 35%; /* Adjusted top value */
-    left: calc(50% - 3px);
-    transform: translateY(-50%) translateX(-15%) rotate(-45deg);
-    margin-top: -50px; /* Shift the line up */
+        position: absolute;
+        width: 200px; /* Adjusted width to make the line longer */
+        height: 6px;
+        background-color: #007bff;
+        top: 35%; /* Adjusted top value */
+        left: calc(50% - 3px);
+        transform: translateY(-50%) translateX(-15%) rotate(-45deg);
+        margin-top: -50px; /* Shift the line up */
     }
 
     /* Slanting branch line (bottom) */
     .branch-line-bottom {
-    position: absolute;
-    width: 200px; /* Adjusted width to make the line longer */
-    height: 6px;
-    background-color: #007bff;
-    top: 65%; /* Adjusted top value */
-    left: calc(50% - 3px);
-    transform: translateY(50%) translateX(-15%) rotate(45deg);
-    margin-top: 70px; /* Shift the line down */
+        position: absolute;
+        width: 200px; /* Adjusted width to make the line longer */
+        height: 6px;
+        background-color: #007bff;
+        top: 65%; /* Adjusted top value */
+        left: calc(50% - 3px);
+        transform: translateY(50%) translateX(-15%) rotate(45deg);
+        margin-top: 70px; /* Shift the line down */
     }
 
     /* Hide vertical line above the first bubble */
