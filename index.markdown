@@ -219,23 +219,23 @@ If you are interested in contributing to this initiative, please write to anjali
 
     /* Tooltip box for the circle links */
     .tooltip-box {
-        position: absolute;
-        top: 50%;
-        left: 100%;
-        transform: translate(3px, -50%);
-        width: 300px;
-        height: 200px;
-        background-color: #007bff;
-        color: white;
-        border-radius: 3px;
-        display: none;
-        z-index: 2;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translate(3px, -50%);
+    width: 600px; /* Previous value: 300px */
+    height: 400px; /* Previous value: 200px */
+    background-color: #007bff;
+    color: white;
+    border-radius: 3px;
+    display: none;
+    z-index: 2;
     }
 
     .tooltip-box iframe {
-        width: 100%;
-        height: 100%;
-        border: none;
+    width: 100%;
+    height: 100%;
+    border: none;
     }
 
     .circle:hover .tooltip-box {
