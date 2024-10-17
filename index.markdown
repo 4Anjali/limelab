@@ -314,7 +314,7 @@ If you are interested in contributing to this initiative, please write to anjali
     background-color: #007bff;
     top: 35%; /* Adjusted top value */
     left: calc(50% - 3px);
-    transform: translateY(-50%) translateX(-30%) rotate(-45deg);
+    transform: translateY(-50%) translateX(-20%) rotate(-45deg);
     margin-top: -50px; /* Shift the line up */
     }
 
@@ -326,7 +326,7 @@ If you are interested in contributing to this initiative, please write to anjali
     background-color: #007bff;
     top: 65%; /* Adjusted top value */
     left: calc(50% - 3px);
-    transform: translateY(50%) translateX(-30%) rotate(45deg);
+    transform: translateY(50%) translateX(-20%) rotate(45deg);
     margin-top: 70px; /* Shift the line down */
     }
 
