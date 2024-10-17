@@ -312,7 +312,7 @@ If you are interested in contributing to this initiative, please write to anjali
         width: 200px;
         height: 6px;
         background-color: #007bff;
-        top: 10%;
+        top: 1%;
         left: calc(50% - 3px);
         transform: translateY(-5%) rotate(-45deg);
     }
