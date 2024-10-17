@@ -78,7 +78,6 @@ If you are interested in contributing to this initiative, please write to anjali
         </div>
         <div class="branch-line-top"></div>
         <div class="branch-line-vertical"></div>
-        <div class="branch-line-bottom"></div>
     </div>
     <!-- Branch Event 2 -->
     <div class="timeline-event branch">
@@ -93,7 +92,6 @@ If you are interested in contributing to this initiative, please write to anjali
             </a>
             <div class="horizontal-line"></div>
         </div>
-        <div class="branch-line-top"></div>
         <div class="branch-line-vertical"></div>
         <div class="branch-line-bottom"></div>
     </div>
