@@ -22,22 +22,31 @@ If you are interested in contributing to this initiative, please write to anjali
 <!-- Timeline section starts here -->
 <div class="timeline">
     <!-- Event 1 -->
-    <div class="circle">
-        <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">YouTube Video</a>
-        <div class="horizontal-line"></div>
-        <div class="tooltip-box">YouTube Video</div>
+    <div class="timeline-event">
+        <div class="textbox">Lorem ipsum</div>
+        <div class="circle">
+            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">YouTube Video</a>
+            <div class="horizontal-line"></div>
+            <div class="tooltip-box">YouTube Video</div>
+        </div>
     </div>
     <!-- Event 2 -->
-    <div class="circle">
-        <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid2</a>
-        <div class="horizontal-line"></div>
-        <div class="tooltip-box">Vid2</div>
+    <div class="timeline-event">
+        <div class="textbox">Lorem ipsum</div>
+        <div class="circle">
+            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid2</a>
+            <div class="horizontal-line"></div>
+            <div class="tooltip-box">Vid2</div>
+        </div>
     </div>
     <!-- Event 3 -->
-    <div class="circle">
-        <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid3</a>
-        <div class="horizontal-line"></div>
-        <div class="tooltip-box">Vid3</div>
+    <div class="timeline-event">
+        <div class="textbox">Lorem ipsum</div>
+        <div class="circle">
+            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid3</a>
+            <div class="horizontal-line"></div>
+            <div class="tooltip-box">Vid3</div>
+        </div>
     </div>
 </div>
 
@@ -70,6 +79,24 @@ If you are interested in contributing to this initiative, please write to anjali
         margin-left: -3px;
     }
 
+    .timeline-event {
+        display: flex;
+        align-items: center;
+        margin: 60px 0;
+    }
+
+    .textbox {
+        width: 100px;
+        height: 25px;
+        background-color: #f0f0f0;
+        border: 1px solid #ccc;
+        font-size: 11px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 20px;
+    }
+
     /* Add circles for the timeline events */
     .circle {
         position: relative;
@@ -82,7 +109,6 @@ If you are interested in contributing to this initiative, please write to anjali
         border: 3px solid #007bff;
         border-radius: 50%;
         z-index: 1;
-        margin: 120px 0; /* Double the margin to increase the vertical gap */
     }
 
     .circle a {
@@ -101,16 +127,16 @@ If you are interested in contributing to this initiative, please write to anjali
     .tooltip-box {
         position: absolute;
         top: 50%;
-        left: 100%; /* Shift to the right to align with the horizontal line */
-        transform: translate(3px, -50%); /* Adjust to align with the horizontal line */
-        width: 150px; /* Set a uniform width */
-        height: 150px; /* Set a uniform height */
-        padding: 20px; /* Adjust padding */
+        left: 100%;
+        transform: translate(3px, -50%);
+        width: 150px;
+        height: 150px;
+        padding: 20px;
         background-color: #007bff;
         color: white;
         border-radius: 3px;
         text-align: center;
-        font-size: 16px; /* Increase font size */
+        font-size: 16px;
         display: none;
         z-index: 2;
     }
@@ -124,7 +150,7 @@ If you are interested in contributing to this initiative, please write to anjali
         position: absolute;
         top: 50%;
         left: 100%;
-        width: 100px; /* Adjust the width as needed */
+        width: 100px;
         height: 2px;
         background-color: #007bff;
         transform: translateY(-50%);
