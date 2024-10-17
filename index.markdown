@@ -308,23 +308,23 @@ If you are interested in contributing to this initiative, please write to anjali
 
     /* Styles for the slanting branch line (top) */
     .branch-line-top {
-        position: absolute;
-        width: 100px; /* Adjusted width to ensure it connects */
-        height: 6px;
-        background-color: #007bff;
-        top: 50%;
-        left: calc(50% - 50px);
-        transform: rotate(-45deg);
+    position: absolute;
+    width: 50px; /* Adjusted width to ensure it connects properly */
+    height: 6px;
+    background-color: #007bff;
+    top: 50%;
+    left: calc(50% - 25px); /* Adjusted position to start from the bubble on the main line */
+    transform: rotate(-45deg);
     }
 
-    /* Styles for the slanting branch line (bottom) */
+/* Styles for the slanting branch line (bottom) */
     .branch-line-bottom {
-        position: absolute;
-        width: 100px; /* Adjusted width to ensure it connects */
-        height: 6px;
-        background-color: #007bff;
-        top: calc(50% + 50px); /* Adjusted position to connect properly */
-        left: calc(50% - 50px);
-        transform: rotate(45deg);
+    position: absolute;
+    width: 50px; /* Adjusted width to ensure it connects properly */
+    height: 6px;
+    background-color: #007bff;
+    top: calc(50% + 50px); /* Adjusted position to connect properly */
+    left: calc(50% - 25px); /* Adjusted position to start from the bubble on the main line */
+    transform: rotate(45deg);
     }
 </style>
