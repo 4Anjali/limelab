@@ -168,6 +168,7 @@ If you are interested in contributing to this initiative, please write to anjali
 </div>
 
 <!-- CSS styles for the timeline -->
+<!-- Updated branch line styles -->
 <style>
     * {
         box-sizing: border-box;
@@ -199,17 +200,17 @@ If you are interested in contributing to this initiative, please write to anjali
     .timeline-event {
         display: flex;
         align-items: center;
-        margin: 120px 0; /* Double the space between events */
+        margin: 120px 0;
         position: relative;
     }
 
     .timeline-event.branch {
-        margin-right: 40%; /* Position the branch on the left side */
+        margin-right: 40%;
     }
 
     .textbox {
         width: 100px;
-        height: 50px; /* Update height to 50px */
+        height: 50px;
         background-color: #f0f0f0;
         border: 1px solid #ccc;
         font-size: 11px;
@@ -217,12 +218,12 @@ If you are interested in contributing to this initiative, please write to anjali
         align-items: center;
         justify-content: center;
         position: absolute;
-        right: calc(50% + 20px); /* Position to the left of the circle with a 20px gap */
+        right: calc(50% + 20px);
     }
 
     .date {
         position: absolute;
-        left: calc(50% + 40px); /* Position to the right of the circle with a 20px gap */
+        left: calc(50% + 40px);
         font-size: 12px;
         color: #555;
     }
@@ -246,21 +247,20 @@ If you are interested in contributing to this initiative, please write to anjali
         width: 100%;
         height: 100%;
         text-decoration: none;
-        color: transparent; /* Hide the link text */
+        color: transparent;
     }
 
     .circle a:hover {
         background-color: #007bff;
     }
 
-    /* Tooltip box for the circle links */
     .tooltip-box {
         position: absolute;
         top: 50%;
         left: 100%;
         transform: translate(3px, -50%);
-        width: 600px; /* Previous value: 300px */
-        height: 400px; /* Previous value: 200px */
+        width: 600px;
+        height: 400px;
         background-color: #007bff;
         color: white;
         border-radius: 3px;
@@ -289,42 +289,43 @@ If you are interested in contributing to this initiative, please write to anjali
         transform: translateY(-50%);
     }
 
-    /* Styles for the branch line */
+    /* Branch horizontal line (connecting the branch to the bubble) */
     .timeline-event.branch .horizontal-line {
         top: 50%;
         right: 100%;
         transform: translateY(-50%);
     }
 
-    /* Styles for the vertical branch line */
+    /* Vertical branch line */
     .branch-line-vertical {
         position: absolute;
         width: 6px;
-        height: 100px; /* Adjusted height to connect properly */
+        height: 80px; /* Adjusted height */
         background-color: #007bff;
         top: 50%;
-        left: calc(50% - 3px); /* Center the vertical line */
+        left: calc(50% - 3px);
+        transform: translateY(-50%);
     }
 
-   /* Styles for the slanting branch line (top) */
+    /* Slanting branch line (top) */
     .branch-line-top {
-    position: absolute;
-    width: 70px; /* Increased width to ensure it reaches the main line bubble */
-    height: 6px;
-    background-color: #007bff;
-    top: calc(50% - 35px); /* Adjusted position to start from the main line bubble */
-    left: calc(50% - 35px); /* Adjusted position to start from the main line bubble */
-    transform: rotate(-45deg);
+        position: absolute;
+        width: 60px; /* Adjusted width */
+        height: 6px;
+        background-color: #007bff;
+        top: 50%; /* Matches the vertical center of the bubble */
+        left: calc(50% - 3px); /* Start from the bubble */
+        transform: translateY(-35%) rotate(-45deg); /* Aligns the line properly */
     }
 
-/* Styles for the slanting branch line (bottom) */
+    /* Slanting branch line (bottom) */
     .branch-line-bottom {
-    position: absolute;
-    width: 70px; /* Increased width to ensure it reaches the main line bubble */
-    height: 6px;
-    background-color: #007bff;
-    top: calc(50% + 35px); /* Adjusted position to start from the branch bubble */
-    left: calc(50% - 35px); /* Adjusted position to start from the main line bubble */
-    transform: rotate(45deg);
+        position: absolute;
+        width: 60px; /* Adjusted width */
+        height: 6px;
+        background-color: #007bff;
+        top: 50%; /* Matches the vertical center of the bubble */
+        left: calc(50% - 3px); /* Start from the bubble */
+        transform: translateY(35%) rotate(45deg); /* Aligns the line properly */
     }
 </style>
