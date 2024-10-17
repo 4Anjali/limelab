@@ -77,7 +77,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <div class="horizontal-line"></div>
         </div>
         <div class="branch-line-top"></div>
-        <div class="branch-line-vertical"></div>
+        <div class="branch-line-vertical-top"></div> <!-- Updated class -->
     </div>
     <!-- Branch Event 2 -->
     <div class="timeline-event branch">
@@ -92,7 +92,7 @@ If you are interested in contributing to this initiative, please write to anjali
             </a>
             <div class="horizontal-line"></div>
         </div>
-        <div class="branch-line-vertical"></div>
+        <div class="branch-line-vertical-bottom"></div> <!-- Updated class -->
         <div class="branch-line-bottom"></div>
     </div>
     <!-- Event 4 -->
@@ -295,8 +295,19 @@ If you are interested in contributing to this initiative, please write to anjali
         transform: translateY(-50%);
     }
 
-    /* Vertical branch line */
-    .branch-line-vertical {
+    /* Vertical branch line (top) */
+    .branch-line-vertical-top {
+        position: absolute;
+        width: 6px;
+        height: 80px;
+        background-color: #007bff;
+        top: 50%;
+        left: calc(50% - 3px);
+        transform: translateY(-50%);
+    }
+
+    /* Vertical branch line (bottom) */
+    .branch-line-vertical-bottom {
         position: absolute;
         width: 6px;
         height: 80px;
@@ -331,12 +342,12 @@ If you are interested in contributing to this initiative, please write to anjali
     }
 
     /* Hide vertical line above the first bubble */
-    .timeline-event.branch:first-of-type .branch-line-vertical {
+    .timeline-event.branch:first-of-type .branch-line-vertical-top {
         display: none;
     }
 
     /* Hide vertical line below the last bubble */
-    .timeline-event.branch:last-of-type .branch-line-vertical {
+    .timeline-event.branch:last-of-type .branch-line-vertical-bottom {
         display: none;
     }
 </style>
