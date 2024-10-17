@@ -309,7 +309,7 @@ If you are interested in contributing to this initiative, please write to anjali
     /* Slanting branch line (top) */
     .branch-line-top {
         position: absolute;
-        width: 60px;
+        width: 100px;
         height: 6px;
         background-color: #007bff;
         top: 50%;
