@@ -101,8 +101,8 @@ If you are interested in contributing to this initiative, please write to anjali
     .tooltip-box {
         position: absolute;
         top: 50%;
-        left: 150%; /* Shift to the right by another inch */
-        transform: translateY(-50%);
+        left: 100%; /* Shift to the right to align with the horizontal line */
+        transform: translate(3px, -50%); /* Adjust to align with the horizontal line */
         width: 150px; /* Set a uniform width */
         height: 150px; /* Set a uniform height */
         padding: 20px; /* Adjust padding */
