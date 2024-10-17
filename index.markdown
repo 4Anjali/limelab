@@ -94,7 +94,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .timeline-event {
         display: flex;
         align-items: center;
-        margin: 60px 0;
+        margin: 120px 0; /* Double the space between events */
         position: relative;
     }
 
