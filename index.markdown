@@ -1,6 +1,8 @@
+---
 layout: page
 title: Status
 permalink: /
+---
 
 ### Completed:
 - Camera integrated with robotic arm
