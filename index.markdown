@@ -63,6 +63,34 @@ If you are interested in contributing to this initiative, please write to anjali
             <div class="horizontal-line"></div>
         </div>
     </div>
+    <!-- Branch Event 1 -->
+    <div class="timeline-event branch">
+        <div class="textbox">Branch Event 1</div>
+        <div class="date">Sep, 2023</div>
+        <div class="circle">
+            <a href="#" class="tooltip">
+                Branch Event 1 Tooltip
+                <div class="tooltip-box">
+                    <!-- Tooltip content -->
+                </div>
+            </a>
+            <div class="horizontal-line"></div>
+        </div>
+    </div>
+    <!-- Branch Event 2 -->
+    <div class="timeline-event branch">
+        <div class="textbox">Branch Event 2</div>
+        <div class="date">Oct, 2023</div>
+        <div class="circle">
+            <a href="#" class="tooltip">
+                Branch Event 2 Tooltip
+                <div class="tooltip-box">
+                    <!-- Tooltip content -->
+                </div>
+            </a>
+            <div class="horizontal-line"></div>
+        </div>
+    </div>
     <!-- Event 4 -->
     <div class="timeline-event">
         <div class="textbox">Lorem ipsum</div>
@@ -171,6 +199,21 @@ If you are interested in contributing to this initiative, please write to anjali
         position: relative;
     }
 
+    .timeline-event.branch {
+        margin-left: 60%; /* Position the branch on the right side */
+    }
+
+    .timeline-event.branch::after {
+        content: '';
+        position: absolute;
+        width: 6px;
+        background-color: #007bff;
+        top: 0;
+        bottom: 0;
+        left: -50%; /* Connect the branch to the main line */
+        margin-left: -3px;
+    }
+
     .textbox {
         width: 100px;
         height: 50px; /* Update height to 50px */
@@ -219,23 +262,23 @@ If you are interested in contributing to this initiative, please write to anjali
 
     /* Tooltip box for the circle links */
     .tooltip-box {
-    position: absolute;
-    top: 50%;
-    left: 100%;
-    transform: translate(3px, -50%);
-    width: 600px; /* Previous value: 300px */
-    height: 400px; /* Previous value: 200px */
-    background-color: #007bff;
-    color: white;
-    border-radius: 3px;
-    display: none;
-    z-index: 2;
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        transform: translate(3px, -50%);
+        width: 600px; /* Previous value: 300px */
+        height: 400px; /* Previous value: 200px */
+        background-color: #007bff;
+        color: white;
+        border-radius: 3px;
+        display: none;
+        z-index: 2;
     }
 
     .tooltip-box iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
+        width: 100%;
+        height: 100%;
+        border: none;
     }
 
     .circle:hover .tooltip-box {
