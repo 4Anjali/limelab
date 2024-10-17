@@ -320,11 +320,11 @@ If you are interested in contributing to this initiative, please write to anjali
     /* Slanting branch line (bottom) */
     .branch-line-bottom {
         position: absolute;
-        width: 60px;
+        width: 200px;
         height: 6px;
         background-color: #007bff;
-        top: 50%;
+        top: 65%;
         left: calc(50% - 3px);
-        transform: translateY(35%) rotate(45deg);
+        transform: translateY(45%) rotate(45deg);
     }
 </style>
