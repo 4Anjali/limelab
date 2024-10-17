@@ -25,27 +25,39 @@ If you are interested in contributing to this initiative, please write to anjali
     <div class="timeline-event">
         <div class="textbox">Lorem ipsum</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">YouTube Video</a>
+            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+                YouTube Video
+                <div class="tooltip-box">
+                    <iframe src="https://www.youtube.com/embed/nLxlBb88Mvs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+            </a>
             <div class="horizontal-line"></div>
-            <div class="tooltip-box">YouTube Video</div>
         </div>
     </div>
     <!-- Event 2 -->
     <div class="timeline-event">
         <div class="textbox">Lorem ipsum</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid2</a>
+            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+                Vid2
+                <div class="tooltip-box">
+                    <iframe src="https://www.youtube.com/embed/nLxlBb88Mvs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+            </a>
             <div class="horizontal-line"></div>
-            <div class="tooltip-box">Vid2</div>
         </div>
     </div>
     <!-- Event 3 -->
     <div class="timeline-event">
         <div class="textbox">Lorem ipsum</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">Vid3</a>
+            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+                Vid3
+                <div class="tooltip-box">
+                    <iframe src="https://www.youtube.com/embed/nLxlBb88Mvs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+            </a>
             <div class="horizontal-line"></div>
-            <div class="tooltip-box">Vid3</div>
         </div>
     </div>
 </div>
@@ -131,16 +143,19 @@ If you are interested in contributing to this initiative, please write to anjali
         top: 50%;
         left: 100%;
         transform: translate(3px, -50%);
-        width: 150px;
-        height: 150px;
-        padding: 20px;
+        width: 300px;
+        height: 200px;
         background-color: #007bff;
         color: white;
         border-radius: 3px;
-        text-align: center;
-        font-size: 16px;
         display: none;
         z-index: 2;
+    }
+
+    .tooltip-box iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
     }
 
     .circle:hover .tooltip-box {
