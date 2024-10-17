@@ -300,7 +300,7 @@ If you are interested in contributing to this initiative, please write to anjali
 
     .branch-line-top {
         position: absolute;
-        width: 50px;
+        width: 100px; /* Adjusted width to ensure it connects */
         height: 6px;
         background-color: #007bff;
         top: 50%;
@@ -311,20 +311,19 @@ If you are interested in contributing to this initiative, please write to anjali
     .branch-line-vertical {
         position: absolute;
         width: 6px;
-        height: 40px;
+        height: 100px; /* Adjusted height to connect properly */
         background-color: #007bff;
-        top: calc(50% + 35px);
-        left: calc(50% - 53px);
-        transform: translateY(-50%);
+        top: 50%;
+        left: calc(50% - 3px); /* Center the vertical line */
     }
 
     .branch-line-bottom {
         position: absolute;
-        width: 50px;
+        width: 100px; /* Adjusted width to ensure it connects */
         height: 6px;
         background-color: #007bff;
-        top: calc(50% + 70px);
-        left: calc(50% - 100px);
+        top: calc(50% + 50px); /* Adjusted position to connect properly */
+        left: calc(50% - 50px);
         transform: rotate(45deg);
     }
 </style>
