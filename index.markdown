@@ -209,17 +209,6 @@ If you are interested in contributing to this initiative, please write to anjali
         margin-right: 40%; /* Position the branch on the left side */
     }
 
-    .timeline-event.branch::before {
-        content: '';
-        position: absolute;
-        width: 6px;
-        background-color: #007bff;
-        top: 0;
-        bottom: 50%;
-        right: -50%; /* Connect the branch to the main line */
-        margin-right: -3px;
-    }
-
     .textbox {
         width: 100px;
         height: 50px; /* Update height to 50px */
@@ -311,12 +300,12 @@ If you are interested in contributing to this initiative, please write to anjali
 
     .branch-line-top {
         position: absolute;
-        width: 100px;
+        width: 50px;
         height: 6px;
         background-color: #007bff;
         top: 50%;
-        left: 50%;
-        transform: translateX(-100%);
+        left: calc(50% - 50px);
+        transform: rotate(-45deg);
     }
 
     .branch-line-vertical {
@@ -324,18 +313,18 @@ If you are interested in contributing to this initiative, please write to anjali
         width: 6px;
         height: 40px;
         background-color: #007bff;
-        top: 50%;
-        left: calc(50% - 50px);
+        top: calc(50% + 35px);
+        left: calc(50% - 53px);
         transform: translateY(-50%);
     }
 
     .branch-line-bottom {
         position: absolute;
-        width: 100px;
+        width: 50px;
         height: 6px;
         background-color: #007bff;
-        top: 50%;
+        top: calc(50% + 70px);
         left: calc(50% - 100px);
-        transform: translateY(100%);
+        transform: rotate(45deg);
     }
 </style>
