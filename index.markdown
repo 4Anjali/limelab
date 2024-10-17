@@ -1,8 +1,6 @@
----
 layout: page
 title: Status
 permalink: /
----
 
 ### Completed:
 - Camera integrated with robotic arm
@@ -82,7 +80,7 @@ If you are interested in contributing to this initiative, please write to anjali
         border: 3px solid #007bff;
         border-radius: 50%;
         z-index: 1;
-        margin: 60px 0; /* Increased margin to separate the bubbles vertically */
+        margin: 120px 0; /* Double the margin to increase the vertical gap */
     }
 
     .circle a {
@@ -103,7 +101,9 @@ If you are interested in contributing to this initiative, please write to anjali
         top: 50%;
         left: 150%; /* Shift to the right by another inch */
         transform: translateY(-50%);
-        padding: 20px 40px; /* Increase size */
+        width: 150px; /* Set a uniform width */
+        height: 150px; /* Set a uniform height */
+        padding: 20px; /* Adjust padding */
         background-color: #007bff;
         color: white;
         border-radius: 3px;
