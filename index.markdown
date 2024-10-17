@@ -296,6 +296,17 @@ If you are interested in contributing to this initiative, please write to anjali
         transform: translateY(-50%);
     }
 
+    /* Styles for the vertical branch line */
+    .branch-line-vertical {
+        position: absolute;
+        width: 6px;
+        height: 100px; /* Adjusted height to connect properly */
+        background-color: #007bff;
+        top: 50%;
+        left: calc(50% - 3px); /* Center the vertical line */
+    }
+
+    /* Styles for the slanting branch line (top) */
     .branch-line-top {
         position: absolute;
         width: 100px; /* Adjusted width to ensure it connects */
@@ -306,15 +317,7 @@ If you are interested in contributing to this initiative, please write to anjali
         transform: rotate(-45deg);
     }
 
-    .branch-line-vertical {
-        position: absolute;
-        width: 6px;
-        height: 100px; /* Adjusted height to connect properly */
-        background-color: #007bff;
-        top: 50%;
-        left: calc(50% - 3px); /* Center the vertical line */
-    }
-
+    /* Styles for the slanting branch line (bottom) */
     .branch-line-bottom {
         position: absolute;
         width: 100px; /* Adjusted width to ensure it connects */
