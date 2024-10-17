@@ -351,25 +351,25 @@
         left: calc(50% - 3px); /* Center the vertical line */
     }
 
-    /* Styles for the slanting branch line (top) */
+   /* Styles for the slanting branch line (top) */
     .branch-line-top {
     position: absolute;
-    width: 50px; /* Adjusted width to ensure it connects properly */
+    width: 70px; /* Increased width to ensure it reaches the main line bubble */
     height: 6px;
     background-color: #007bff;
-    top: 50%;
-    left: calc(50% - 25px); /* Adjusted position to start from the bubble on the main line */
+    top: calc(50% - 35px); /* Adjusted position to start from the main line bubble */
+    left: calc(50% - 35px); /* Adjusted position to start from the main line bubble */
     transform: rotate(-45deg);
     }
 
 /* Styles for the slanting branch line (bottom) */
     .branch-line-bottom {
     position: absolute;
-    width: 50px; /* Adjusted width to ensure it connects properly */
+    width: 70px; /* Increased width to ensure it reaches the main line bubble */
     height: 6px;
     background-color: #007bff;
-    top: calc(50% + 50px); /* Adjusted position to connect properly */
-    left: calc(50% - 25px); /* Adjusted position to start from the bubble on the main line */
+    top: calc(50% + 35px); /* Adjusted position to start from the branch bubble */
+    left: calc(50% - 35px); /* Adjusted position to start from the main line bubble */
     transform: rotate(45deg);
     }
 </style>
