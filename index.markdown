@@ -83,18 +83,20 @@ If you are interested in contributing to this initiative, please write to anjali
         display: flex;
         align-items: center;
         margin: 60px 0;
+        position: relative;
     }
 
     .textbox {
         width: 100px;
-        height: 25px;
+        height: 50px; /* Update height to 50px */
         background-color: #f0f0f0;
         border: 1px solid #ccc;
         font-size: 11px;
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-right: 20px;
+        position: absolute;
+        right: calc(50% + 20px); /* Position to the left of the circle with a 20px gap */
     }
 
     /* Add circles for the timeline events */
