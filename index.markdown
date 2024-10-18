@@ -63,38 +63,6 @@ If you are interested in contributing to this initiative, please write to anjali
             <div class="horizontal-line"></div>
         </div>
     </div>
-    <!-- Branch Event 1 -->
-    <div class="timeline-event branch">
-        <div class="textbox">Branch Event 1</div>
-        <div class="date">Sep, 2023</div>
-        <div class="circle">
-            <a href="#" class="tooltip">
-                Branch Event 1 Tooltip
-                <div class="tooltip-box">
-                    <!-- Tooltip content -->
-                </div>
-            </a>
-            <div class="horizontal-line"></div>
-        </div>
-        <div class="branch-line-top"></div>
-        <div class="branch-line-vertical-top"></div> <!-- Updated class -->
-    </div>
-    <!-- Branch Event 2 -->
-    <div class="timeline-event branch">
-        <div class="textbox">Branch Event 2</div>
-        <div class="date">Oct, 2023</div>
-        <div class="circle">
-            <a href="#" class="tooltip">
-                Branch Event 2 Tooltip
-                <div class="tooltip-box">
-                    <!-- Tooltip content -->
-                </div>
-            </a>
-            <div class="horizontal-line"></div>
-        </div>
-        <div class="branch-line-vertical-bottom"></div> <!-- Updated class -->
-        <div class="branch-line-bottom"></div>
-    </div>
     <!-- Event 4 -->
     <div class="timeline-event">
         <div class="textbox">Lorem ipsum</div>
@@ -203,10 +171,6 @@ If you are interested in contributing to this initiative, please write to anjali
         position: relative;
     }
 
-    .timeline-event.branch {
-        margin-right: 40%;
-    }
-
     .textbox {
         width: 100px;
         height: 50px;
@@ -286,68 +250,5 @@ If you are interested in contributing to this initiative, please write to anjali
         height: 2px;
         background-color: #007bff;
         transform: translateY(-50%);
-    }
-
-    /* Branch horizontal line (connecting the branch to the bubble) */
-    .timeline-event.branch .horizontal-line {
-        top: 50%;
-        right: 100%;
-        transform: translateY(-50%);
-    }
-
-    /* Vertical branch line (top) */
-    .branch-line-vertical-top {
-        position: absolute;
-        width: 6px;
-        height: 80px;
-        background-color: #007bff;
-        top: 50%;
-        left: calc(50% - 3px);
-        transform: translateY(-50%);
-    }
-
-    /* Vertical branch line (bottom) */
-    .branch-line-vertical-bottom {
-        position: absolute;
-        width: 6px;
-        height: 80px;
-        background-color: #007bff;
-        top: 50%;
-        left: calc(50% - 3px);
-        transform: translateY(-50%);
-    }
-
-    /* Slanting branch line (top) */
-    .branch-line-top {
-        position: absolute;
-        width: 200px; /* Adjusted width to make the line longer */
-        height: 6px;
-        background-color: #007bff;
-        top: 35%; /* Adjusted top value */
-        left: calc(50% - 3px);
-        transform: translateY(-50%) translateX(-15%) rotate(-45deg);
-        margin-top: -50px; /* Shift the line up */
-    }
-
-    /* Slanting branch line (bottom) */
-    .branch-line-bottom {
-        position: absolute;
-        width: 200px; /* Adjusted width to make the line longer */
-        height: 6px;
-        background-color: #007bff;
-        top: 65%; /* Adjusted top value */
-        left: calc(50% - 3px);
-        transform: translateY(50%) translateX(-15%) rotate(45deg);
-        margin-top: 70px; /* Shift the line down */
-    }
-
-    /* Hide vertical line above the first bubble */
-    .timeline-event.branch:first-of-type .branch-line-vertical-top {
-        display: none;
-    }
-
-    /* Hide vertical line below the last bubble */
-    .timeline-event.branch:last-of-type .branch-line-vertical-bottom {
-        display: none;
     }
 </style>
