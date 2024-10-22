@@ -29,6 +29,7 @@ If you are interested in contributing to this initiative, please write to anjali
             Lorem ipsum
         </div>
         <div class="date">Jan, 2023</div>
+        <div class="location">Location 1</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 YouTube Video
@@ -255,6 +256,14 @@ If you are interested in contributing to this initiative, please write to anjali
         left: calc(50% + 40px);
         font-size: 12px;
         color: #555;
+    }
+    
+    .location {
+    position: absolute;
+    left: calc(50% + 40px);
+    top: 20px; /* Adjust as necessary */
+    font-size: 12px;
+    color: #555;
     }
 
     /* Add circles for the timeline events */
