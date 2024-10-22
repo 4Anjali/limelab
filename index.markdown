@@ -186,7 +186,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <b>After School Enrichment</b>
             Conducted Semester Long STEM Enrichment Program
         </div>
-        <div class="date">Wntr, '23</div>
+        <div class="date">Wntr 2023</div>
         <div class="location1">Roeper School</div>
         <div class="location2">Bloomfield Hills</div>
         <div class="location3">MI</div>
@@ -206,7 +206,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <b>Post COVID Revival</b>
             In Which LIME Lab Returns to Serve after the COVID
         </div>
-        <div class="date">Wntr, '22</div>
+        <div class="date">Wntr 2022</div>
         <div class="location1">LIME Lab HQ</div>
         <div class="location2">Detroit</div>
         <div class="circle">
