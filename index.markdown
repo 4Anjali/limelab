@@ -24,6 +24,8 @@ If you are interested in contributing to this initiative, please write to anjali
     <!-- Event 1 -->
     <div class="timeline-event">
         <div class="textbox">
+            <b>This is placeholder</b>
+            <hr class="dashed-line">
             Lorem ipsum
         </div>
         <div class="date">Jan, 2023</div>
@@ -319,5 +321,11 @@ If you are interested in contributing to this initiative, please write to anjali
         height: 2px;
         background-color: #007bff;
         transform: translateY(-50%);
+    }
+
+    .dashed-line {
+    border: none;
+    border-top: 1px dashed #000;
+    margin: 5px 0;
     }
 </style>
