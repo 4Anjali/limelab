@@ -62,13 +62,13 @@ If you are interested in contributing to this initiative, please write to anjali
     <!-- Event 3 -->
     <div class="timeline-event">
         <div class="textbox">
-            <b>2024 Girls GET-IT Day</b>
-            Michigan Council of Women Annual Girls GET-IT Event. STEM workshops for over 500 K-8 girls 
+            <b>MCWT's 2024 Girls GET-IT Day</b>
+            Conducted STEM workshops for over 500 K-8 girls 
             from local area schools.
         </div>
         <div class="date">Apr, 2023</div>
         <div class="location1">Wayne County</div>
-        <div class="location2">Community College</div>
+        <div class="location2">Community Collg.</div>
         <div class="location3">Belleville, MI</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
