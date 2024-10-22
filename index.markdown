@@ -102,8 +102,14 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 5 -->
     <div class="timeline-event">
-        <div class="textbox">Parkman Branch Tech Camp-Day 2</div>
-        <div class="date">May, 2023</div>
+        <div class="textbox">
+            <b>Tech Camp: Day 2</b>
+            Conducted STEM Weekend Camp on IoT.
+        </div>
+        <div class="date">Apr, 2023</div>
+        <div class="location1">Parkman Branch</div>
+        <div class="location2">Detroit Public Lib.</div>
+        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid5
@@ -116,8 +122,14 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 6 -->
     <div class="timeline-event">
-        <div class="textbox">Parkman Branch Tech Camp-Day 1</div>
-        <div class="date">Jun, 2023</div>
+        <div class="textbox">
+            <b>Tech Camp: Day 1</b>
+            Conducted STEM Weekend Camp on IoT.
+        </div>
+        <div class="date">Apr, 2023</div>
+        <div class="location1">Parkman Branch</div>
+        <div class="location2">Detroit Public Lib.</div>
+        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid6
@@ -130,8 +142,14 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 7 -->
     <div class="timeline-event">
-        <div class="textbox">Parkman Branch Tech Camp-Day 0</div>
-        <div class="date">Jul, 2023</div>
+        <div class="textbox">
+            <b>Tech Camp: Day 0</b>
+            Conducted STEM Weekend Camp on IoT.
+        </div>
+        <div class="date">Apr, 2023</div>
+        <div class="location1">Parkman Branch</div>
+        <div class="location2">Detroit Public Lib.</div>
+        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid7
@@ -144,8 +162,14 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 8 -->
     <div class="timeline-event">
-        <div class="textbox">Technology Camp @ Lincoln Branch</div>
-        <div class="date">Aug, 2023</div>
+        <div class="textbox">
+            <b>Tech Camp: Day 0</b>
+            Conducted STEM Weekend Camp on IoT.
+        </div>
+        <div class="date">Apr, 2023</div>
+        <div class="location1">Lincoln Branch</div>
+        <div class="location2">Detroit Public Lib.</div>
+        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
@@ -158,8 +182,14 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 9 -->
     <div class="timeline-event">
-        <div class="textbox">Tech Camp @ The Roeper School, Bloomfield Hills</div>
-        <div class="date">Aug, 2023</div>
+        <div class="textbox">
+            <b>After School Enrichment</b>
+            Conducted Semester Long STEM Enrichment Program
+        </div>
+        <div class="date">Winter, 2023</div>
+        <div class="location1">Roeper Lower School</div>
+        <div class="location2">Bloomfield Hills, MI</div>
+        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
@@ -172,8 +202,13 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 10 -->
     <div class="timeline-event">
-        <div class="textbox">We Will Survive</div>
-        <div class="date">Aug, 2023</div>
+        <div class="textbox">
+            <b>Post COVID Revival</b>
+            In Which LIME Lab Returns to Serve after the COVID
+        </div>
+        <div class="date">Winter, 2022</div>
+        <div class="location1">LIME Lab HQ</div>
+        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
@@ -186,8 +221,12 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 11 -->
     <div class="timeline-event">
-        <div class="textbox">STEMinista Community Partner Event</div>
-        <div class="date">Aug, 2023</div>
+        <div class="textbox">
+            <b>STEMinista Community Partners Event</b>
+            LIME Lab is a founding community partner of the STEMinista program at MiSci
+        </div>
+        <div class="location1">Michigan Science Center</div>
+        <div class="location2">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
@@ -200,8 +239,13 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 12 -->
     <div class="timeline-event">
-        <div class="textbox">LIME Lab Intro Video</div>
-        <div class="date">Aug, 2023</div>
+        <div class="textbox">
+            <b>LIME Lab is Live</b>
+            In which we introduce LIME Lab to the world!
+        </div>
+        <div class="date">Winter, 2016</div>
+        <div class="location1">LIME Lab HQ</div>
+        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
@@ -272,7 +316,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .date {
         position: absolute;
         left: calc(50% + 40px);
-        top: -5px; /* Adjust as necessary */
+        top: -10px; /* Adjust as necessary */
         font-size: 12px;
         color: #555;
     }
