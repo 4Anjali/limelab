@@ -57,7 +57,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid3
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/fDkCTlWndJA?si=D1IyWMIz653qqWT0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/fDkCTlWndJA?si=ishAC5rGQTx6KFpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -71,7 +71,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid4
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/UfyIX4qDWIE?si=M0WHbDN12367VjoB" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/UfyIX4qDWIE?si=1lOvrbuGzS-uLKRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -85,7 +85,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid5
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/vTF2xefOcAs?si=LmFl-tVttzFULUQz" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/vTF2xefOcAs?si=tubS47ImQwzUg0rY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -99,7 +99,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid6
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/9ab3CoyB-mA?si=mY__iAZkAsuy01CS" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/9ab3CoyB-mA?si=RkvKU6vxzvVEBF_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -113,7 +113,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid7
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/mfEifDUL8RA?si=QcuBWR21LiVwf_Y8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/mfEifDUL8RA?si=rG2C-T_5I1IRTV0W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -127,7 +127,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/BPKW31KQrXA?si=7xMa_Ply8QoEJ8JZ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/BPKW31KQrXA?si=P6rncTZJNI94bD7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -141,7 +141,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
-                    <iframe src=" https://youtu.be/8xVgEU8CgVA?si=1loGgJeiIC5chvmC" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/8xVgEU8CgVA?si=VENv-jXlryMfRspo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -155,7 +155,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/kr3VNY9aI5I?si=a2yE7LY1YvcJpaKV" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/kr3VNY9aI5I?si=ZWb07VeCer67N1Yq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -169,7 +169,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/okYPbjJtOPE?si=H-hM6dp1pGPjc8Kt" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/okYPbjJtOPE?si=vOyq4NIB0_QCM3sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
@@ -183,7 +183,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
-                    <iframe src="https://youtu.be/r0XFyGM2ESg?si=3rI8ULfNiqBmczB-" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/r0XFyGM2ESg?si=0ox_N9SGyVNODF0H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </a>
             <div class="horizontal-line"></div>
