@@ -239,7 +239,7 @@ If you are interested in contributing to this initiative, please write to anjali
         align-items: center;
         justify-content: center;
         position: absolute;
-        right: calc(50% - 2px);
+        right: calc(45% - 2px);
     }
 
         align-items: center;
@@ -260,7 +260,7 @@ If you are interested in contributing to this initiative, please write to anjali
         position: relative;
      /*   top: 15px;  */
         top: 50%;
-        left: 40%;
+        left: 38%;
         transform: translateX(-50%);
         width: 20px;
         height: 20px;
