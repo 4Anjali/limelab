@@ -187,9 +187,8 @@ If you are interested in contributing to this initiative, please write to anjali
             Conducted Semester Long STEM Enrichment Program
         </div>
         <div class="date">Winter, 2023</div>
-        <div class="location1">Roeper Lower School</div>
+        <div class="location1">The Roeper School</div>
         <div class="location2">Bloomfield Hills, MI</div>
-        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
@@ -225,6 +224,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <b>STEMinista Community Partners Event</b>
             LIME Lab is a founding community partner of the STEMinista program at MiSci
         </div>
+        <div class="date">Winter, 2022</div>
         <div class="location1">Michigan Science Center</div>
         <div class="location2">Detroit</div>
         <div class="circle">
