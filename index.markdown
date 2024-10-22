@@ -274,9 +274,9 @@ If you are interested in contributing to this initiative, please write to anjali
     }
 
     .circle:hover ~ .textbox {
-    background-color: lightyellow;
+    background-color: #FFFF00;
     }
-
+    
     .tooltip-box {
         position: absolute;
         top: 50%;
