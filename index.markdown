@@ -228,8 +228,8 @@ If you are interested in contributing to this initiative, please write to anjali
     }
 
     .textbox {
-        width: 100px;
-        height: 50px;
+        width: 200px;
+        height: 75px;
         background-color: #f0f0f0;
         border: 1px solid #ccc;
         font-size: 11px;
