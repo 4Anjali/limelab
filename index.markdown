@@ -273,8 +273,8 @@ If you are interested in contributing to this initiative, please write to anjali
         background-color: #007bff;
     }
 
-    .circle:hover ~ .textbox {
-        background-color: #FFFF99;
+    .timeline-event:hover .textbox {
+    background-color: #FFFF99; /* light yellow */
     }
     
     .tooltip-box {
