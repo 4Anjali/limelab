@@ -82,8 +82,14 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 4 -->
     <div class="timeline-event">
-        <div class="textbox">Parkman Branch Tech Camp-Day 3</div>
+        <div class="textbox">
+            <b>Tech Camp: Day 3</b>
+            Conducted STEM Weekend Camp on IoT.
+        </div>
         <div class="date">Apr, 2023</div>
+        <div class="location1">Parkman Branch</div>
+        <div class="location2">Detroit Public Lib.</div>
+        <div class="location3">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid4
