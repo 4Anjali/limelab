@@ -270,7 +270,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .location2 {
         position: absolute;
         left: calc(.1% + 1px);
-        top: 10px; /* Adjust as necessary */
+        top: 32px; /* Adjust as necessary */
         font-size: 12px;
         color: #555;
     }
@@ -280,7 +280,7 @@ If you are interested in contributing to this initiative, please write to anjali
         position: relative;
      /*   top: 15px;  */
         top: 50%;
-        left: 40%;
+        left: 38%;
         transform: translateX(-50%);
         width: 20px;
         height: 20px;
