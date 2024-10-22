@@ -11,7 +11,7 @@ permalink: /
 
 ### Work In Process Tasks:
 - Make end of gripper work for carrots
-- Figure out way for 360 degree view of carrots (use multiple cameras?)
+- Figure out a way for 360-degree view of carrots (use multiple cameras?)
 
 ### Future Work:
 - Make end of gripper work for carrots
@@ -353,7 +353,7 @@ If you are interested in contributing to this initiative, please write to anjali
         position: relative;
      /*   top: 15px;  */
         top: 50%;
-        left: 39%;
+        left: 40%;
         transform: translateX(-50%);
         width: 20px;
         height: 20px;
