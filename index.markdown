@@ -24,8 +24,8 @@ If you are interested in contributing to this initiative, please write to anjali
     <!-- Event 1 -->
     <div class="timeline-event">
         <div class="textbox">
-            <b>Develop Online STEM Training Program</b>
-            Developing an online STEM training program for K12 kids of Detroit. Beta release in Jan. 2025.
+            <b>Develop Online STEM Trg. Prgm.</b>
+            Developing an online STEM training program for K12 kids of Detroit. <br> Beta release in Jan. 2025.
         </div>
         <div class="date">Jan, 2024</div>
         <div class="location1">LIME Lab HQ</div>
