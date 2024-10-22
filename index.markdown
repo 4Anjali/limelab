@@ -258,9 +258,10 @@ If you are interested in contributing to this initiative, please write to anjali
     /* Add circles for the timeline events */
     .circle {
         position: relative;
-        top: 15px;
+     /*   top: 15px;  */
+        top: 50%;
         left: 50%;
-        transform: translateX(-50%);
+        transform: translateX(-50%, -50%);
         width: 20px;
         height: 20px;
         background-color: white;
