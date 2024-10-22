@@ -259,11 +259,11 @@ If you are interested in contributing to this initiative, please write to anjali
     }
     
     .location {
-    position: absolute;
-    left: calc(50% + 40px);
-    top: 20px; /* Adjust as necessary */
-    font-size: 12px;
-    color: #555;
+        position: absolute;
+        left: calc(1% + 40px);
+        top: 20px; /* Adjust as necessary */
+        font-size: 12px;
+        color: #555;
     }
 
     /* Add circles for the timeline events */
