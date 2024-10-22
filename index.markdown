@@ -260,7 +260,7 @@ If you are interested in contributing to this initiative, please write to anjali
     
     .location {
         position: absolute;
-        left: calc(1% + 40px);
+        left: calc(.1% + 1px);
         top: 20px; /* Adjust as necessary */
         font-size: 12px;
         color: #555;
