@@ -187,8 +187,9 @@ If you are interested in contributing to this initiative, please write to anjali
             Conducted Semester Long STEM Enrichment Program
         </div>
         <div class="date">Winter, '23</div>
-        <div class="location1">The Roeper School</div>
-        <div class="location2">Bloomfield Hills, MI</div>
+        <div class="location1">Roeper School</div>
+        <div class="location2">Bloomfield Hills</div>
+        <div class="location3">MI</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
