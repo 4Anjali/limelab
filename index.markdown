@@ -234,6 +234,13 @@ If you are interested in contributing to this initiative, please write to anjali
         border: 1px solid #ccc;
         font-size: 11px;
         display: flex;
+        align-items: flex-start; /* Vertically aligns text to the top */
+        justify-content: flex-start; /* Horizontally aligns text to the left */
+        padding: 5px; /* Optional: Add some padding for better appearance */
+        position: absolute;
+        right: calc(50% + 20px);
+    }
+
         align-items: center;
         justify-content: center;
         position: absolute;
