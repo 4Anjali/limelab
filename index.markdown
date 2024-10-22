@@ -30,6 +30,7 @@ If you are interested in contributing to this initiative, please write to anjali
         </div>
         <div class="date">Jan, 2023</div>
         <div class="location">Location 1</div>
+        <div class="location">Location 2</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 YouTube Video
