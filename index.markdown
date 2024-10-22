@@ -24,7 +24,7 @@ If you are interested in contributing to this initiative, please write to anjali
     <!-- Event 1 -->
     <div class="timeline-event">
         <div class="textbox">
-            <b>Develop Online STEM Trg. Prgm.</b>
+            <b>Develop Online STEM Class</b>
             Developing an online STEM training program for K12 kids of Detroit. <br> Beta release in Jan. 2025.
         </div>
         <div class="date">Jan, 2024</div>
@@ -42,8 +42,13 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 2 -->
     <div class="timeline-event">
-        <div class="textbox">Trial Video For Online Classes</div>
-        <div class="date">Feb, 2023</div>
+        <div class="textbox">
+            <b>Test Video for Online Class</b>
+            How to build and code an Obstacle-Avoiding Vehicle
+        </div>
+        <div class="date">Nov, 2023</div>
+        <div class="location1">LIME Lab HQ</div>
+        <div class="location2">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid2
@@ -56,8 +61,14 @@ If you are interested in contributing to this initiative, please write to anjali
     </div>
     <!-- Event 3 -->
     <div class="timeline-event">
-        <div class="textbox">MCWT Event</div>
-        <div class="date">Mar, 2023</div>
+        <div class="textbox">
+            <b>2024 Girls GET-IT Day</b>
+            Michigan Council of Women Annual Girls GET-IT Event. STEM workshops for over 500 K-8 girls 
+            from local area schools.
+        </div>
+        <div class="date">Apr, 2023</div>
+        <div class="location1">Wayne County Community College</div>
+        <div class="location2">Belleville, MI</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid3
