@@ -24,8 +24,8 @@ If you are interested in contributing to this initiative, please write to anjali
     <!-- Event 1 -->
     <div class="timeline-event">
         <div class="textbox">
-            <b>This is placeholder</b>
-            <hr class="dashed-line">
+            <b>This is placeholder</b><br> 
+            <hr class="dashed-line"><br>
             Lorem ipsum
         </div>
         <div class="date">Jan, 2023</div>
