@@ -261,7 +261,7 @@ If you are interested in contributing to this initiative, please write to anjali
      /*   top: 15px;  */
         top: 50%;
         left: 50%;
-        transform: translateX(-80%, -90%);
+        transform: translateX(-50%);
         width: 20px;
         height: 20px;
         background-color: white;
