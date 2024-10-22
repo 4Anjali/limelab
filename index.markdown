@@ -272,7 +272,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .date {
         position: absolute;
         left: calc(50% + 40px);
-        top: 0px; /* Adjust as necessary */
+        top: -5px; /* Adjust as necessary */
         font-size: 12px;
         color: #555;
     }
@@ -280,7 +280,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .location1 {
         position: absolute;
         left: calc(1px);
-        top: 15px; /* Adjust as necessary */
+        top: 13px; /* Adjust as necessary */
         font-size: 12px;
         color: #555;
     }
@@ -288,7 +288,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .location2 {
         position: absolute;
         left: calc(1px);
-        top: 26px; /* Adjust as necessary */
+        top: 24px; /* Adjust as necessary */
         font-size: 12px;
         color: #555;
     }
@@ -296,7 +296,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .location3 {
         position: absolute;
         left: calc(1px);
-        top: 37px; /* Adjust as necessary */
+        top: 35px; /* Adjust as necessary */
         font-size: 12px;
         color: #555;
     }
