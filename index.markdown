@@ -207,7 +207,7 @@ If you are interested in contributing to this initiative, please write to anjali
         </div>
         <div class="date">Winter, '22</div>
         <div class="location1">LIME Lab HQ</div>
-        <div class="location3">Detroit</div>
+        <div class="location2">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
@@ -246,7 +246,7 @@ If you are interested in contributing to this initiative, please write to anjali
         </div>
         <div class="date">Apr, 2016</div>
         <div class="location1">LIME Lab HQ</div>
-        <div class="location3">Detroit</div>
+        <div class="location2">Detroit</div>
         <div class="circle">
             <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
                 Vid8
