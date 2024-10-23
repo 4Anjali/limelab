@@ -50,7 +50,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location1">LIME Lab HQ</div>
         <div class="location2">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/bSltBaRIbFs" target="_blank" class="tooltip">
                 Vid2
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/bSltBaRIbFs?si=k2vj3Wx5N_YD8ZOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
