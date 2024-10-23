@@ -353,7 +353,7 @@ If you are interested in contributing to this initiative, please write to anjali
         position: absolute;
      /*   top: 15px;  */
         top: 50%;
-        left: 49%;
+        left: 48.5%;
         transform: translateX(-50%,-50%);
         width: 20px;
         height: 20px;
