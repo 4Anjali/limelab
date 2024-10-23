@@ -71,7 +71,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location2">Community Collg.</div>
         <div class="location3">Belleville, MI</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/fDkCTlWndJA" target="_blank" class="tooltip">
                 Vid3
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/fDkCTlWndJA?si=ishAC5rGQTx6KFpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -91,7 +91,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location2">Detroit Public Lib.</div>
         <div class="location3">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/UfyIX4qDWIE" target="_blank" class="tooltip">
                 Vid4
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/UfyIX4qDWIE?si=1lOvrbuGzS-uLKRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -111,7 +111,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location2">Detroit Public Lib.</div>
         <div class="location3">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/vTF2xefOcAs" target="_blank" class="tooltip">
                 Vid5
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/vTF2xefOcAs?si=tubS47ImQwzUg0rY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -131,7 +131,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location2">Detroit Public Lib.</div>
         <div class="location3">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/9ab3CoyB-mA" target="_blank" class="tooltip">
                 Vid6
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/9ab3CoyB-mA?si=RkvKU6vxzvVEBF_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -151,7 +151,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location2">Detroit Public Lib.</div>
         <div class="location3">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/mfEifDUL8RA" target="_blank" class="tooltip">
                 Vid7
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/mfEifDUL8RA?si=rG2C-T_5I1IRTV0W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
