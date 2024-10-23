@@ -230,7 +230,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location2">Center</div>
         <div class="location3">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/okYPbjJtOPE" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/okYPbjJtOPE?si=vOyq4NIB0_QCM3sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -249,7 +249,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location1">LIME Lab HQ</div>
         <div class="location2">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/r0XFyGM2ESg" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/r0XFyGM2ESg?si=0ox_N9SGyVNODF0H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
