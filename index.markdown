@@ -386,7 +386,7 @@ If you are interested in contributing to this initiative, please write to anjali
         transform: translate(3px, -50%);
         width: 600px;
         height: 400px;
-        background-color: #007bff;
+        background-color: transparent; /* Change from #007bff to transparent */
         color: white;
         border-radius: 3px;
         display: none;
