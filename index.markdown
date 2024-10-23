@@ -318,7 +318,7 @@ If you are interested in contributing to this initiative, please write to anjali
     .date {
         position: absolute;
         left: calc(50% + 40px);
-        top: -10px; /* Adjust as necessary */
+        top: -30px; /* Adjust as necessary */
         font-size: 12px;
         color: #555;
     }
