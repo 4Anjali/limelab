@@ -166,12 +166,12 @@ If you are interested in contributing to this initiative, please write to anjali
             <b>Tech Camp: Day 0</b>
             Conducted STEM Weekend Camp on IoT.
         </div>
-        <div class="date">Apr, 2023</div>
+        <div class="date">Dec, 2023</div>
         <div class="location1">Lincoln Branch</div>
         <div class="location2">Detroit Public Lib.</div>
         <div class="location3">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/BPKW31KQrXA" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/BPKW31KQrXA?si=P6rncTZJNI94bD7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -191,7 +191,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location2">Bloomfield Hills</div>
         <div class="location3">MI</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/8xVgEU8CgVA" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/8xVgEU8CgVA?si=VENv-jXlryMfRspo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -210,7 +210,7 @@ If you are interested in contributing to this initiative, please write to anjali
         <div class="location1">LIME Lab HQ</div>
         <div class="location2">Detroit</div>
         <div class="circle">
-            <a href="https://youtu.be/nLxlBb88Mvs?feature=shared" target="_blank" class="tooltip">
+            <a href="https://youtu.be/kr3VNY9aI5I" target="_blank" class="tooltip">
                 Vid8
                 <div class="tooltip-box">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/kr3VNY9aI5I?si=ZWb07VeCer67N1Yq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
