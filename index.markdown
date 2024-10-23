@@ -206,7 +206,7 @@ If you are interested in contributing to this initiative, please write to anjali
             <b>Post COVID Revival</b>
             In Which LIME Lab Returns to Serve after the COVID
         </div>
-        <div class="date">Wntr 2022</div>
+        <div class="date">Winter 2022</div>
         <div class="location1">LIME Lab HQ</div>
         <div class="location2">Detroit</div>
         <div class="circle">
@@ -391,6 +391,25 @@ If you are interested in contributing to this initiative, please write to anjali
         border-radius: 3px;
         display: none;
         z-index: 2;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add shadow for better visibility */
+}
+
+.horizontal-line {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    width: 100px;
+    height: 2px;
+    background-color: #007bff;
+    transform: translateY(-50%);
+    z-index: 1; /* Ensure it is behind the tooltip box */
+}
+
+.circle:hover .tooltip-box {
+    display: block;
+    z-index: 3; /* Ensure tooltip box is above everything else */
+}
+
     }
 
     .tooltip-box iframe {
