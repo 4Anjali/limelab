@@ -350,7 +350,7 @@ If you are interested in contributing to this initiative, please write to anjali
     
     /* Add circles for the timeline events */
     .circle {
-        position: relative;
+        position: absolute;
      /*   top: 15px;  */
         top: 50%;
         left: 39%;
