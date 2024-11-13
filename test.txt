@@ -239,3 +239,183 @@ A place to hold my code text for the project timeline.
         </div>
     </div>
 </div>
+
+<!-- CSS styles for the timeline -->
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .timeline {
+        position: relative;
+        max-width: 800px;
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+
+    /* Create the vertical line */
+    .timeline::after {
+        content: '';
+        position: absolute;
+        width: 6px;
+        background-color: #007bff;
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        margin-left: -3px;
+    }
+
+    .timeline-event {
+        display: flex;
+        align-items: center;
+        margin: 120px 0;
+        position: relative;
+    }
+
+    .textbox {
+        width: 200px;
+        height: 75px;
+        background-color: #f0f0f0;
+        border: 1px solid #ccc;
+        font-size: 11px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        right: calc(55% - 2px);
+    }
+
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        right: calc(50% + 20px);
+    }
+
+    .date {
+        position: absolute;
+        left: calc(50% + 40px);
+        top: -30px; /* Adjust as necessary */
+        font-size: 12px;
+        color: #555;
+    }
+    
+    .location1 {
+        position: absolute;
+        left: calc(1px);
+        top: 13px; /* Adjust as necessary */
+        font-size: 12px;
+        color: #555;
+    }
+
+    .location2 {
+        position: absolute;
+        left: calc(1px);
+        top: 24px; /* Adjust as necessary */
+        font-size: 12px;
+        color: #555;
+    }
+
+    .location3 {
+        position: absolute;
+        left: calc(1px);
+        top: 35px; /* Adjust as necessary */
+        font-size: 12px;
+        color: #555;
+    }
+
+    
+    /* Add circles for the timeline events */
+    .circle {
+        position: absolute;
+     /*   top: 15px;  */
+        top: 50%;
+        left: 48.5%;
+        transform: translateX(-50%,-50%);
+        width: 20px;
+        height: 20px;
+        background-color: white;
+        border: 3px solid #007bff;
+        border-radius: 50%;
+        z-index: 1;
+    }
+
+    .circle a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        color: transparent;
+    }
+
+    .circle a:hover {
+        background-color: #007bff;
+    }
+
+    .timeline-event:hover .textbox {
+    background-color: #FFFF99; /* light yellow */
+    }
+    
+    .tooltip-box {
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        transform: translate(3px, -50%);
+        width: 560px; /* Match the width of the YouTube video - changed from 600 px */
+        height: 315px; /* Match the height of the YouTube video - changed from 400 px */
+        background-color: transparent; /* Change from #007bff to transparent */
+        color: white;
+        border-radius: 3px;
+        display: none;
+        z-index: 2;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add shadow for better visibility */
+}
+
+.horizontal-line {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    width: 100px;
+    height: 2px;
+    background-color: #007bff;
+    transform: translateY(-50%);
+    z-index: 1; /* Ensure it is behind the tooltip box */
+}
+
+.circle:hover .tooltip-box {
+    display: block;
+    z-index: 3; /* Ensure tooltip box is above everything else */
+}
+
+    }
+
+    .tooltip-box iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+
+    .circle:hover .tooltip-box {
+        display: block;
+    }
+
+    /* Horizontal line connecting the bubble to the tooltip */
+    .horizontal-line {
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        width: 100px;
+        height: 2px;
+        background-color: #007bff;
+        transform: translateY(-50%);
+    }
+
+    .dashed-line {
+    border: none;
+    border-top: 1px dashed #000;
+    margin: 5px 0;
+    }
+</style>
