@@ -19,7 +19,9 @@ permalink: /
 
 If you are interested in contributing to this initiative, please write to anjali.sharma@limelab.org with your vita and a less than 500 word statement describing why you are interested and how you wish to contribute. Test
 
+
 <!-- Timeline section starts here -->
+<!--
 <div class="timeline">
     <!-- Event 1 -->
     <div class="timeline-event">
@@ -259,7 +261,7 @@ If you are interested in contributing to this initiative, please write to anjali
         </div>
     </div>
 </div>
-
+-->
 <!-- CSS styles for the timeline -->
 <style>
     * {
