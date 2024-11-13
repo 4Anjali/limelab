@@ -7,4 +7,5 @@ permalink: /team/
 
 This is the Team page.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSt9XIFKOgLIC-5XcHRfXUYMusGs9kQ-8_P3DqLLj0DJjZWQh5bAY6Ae_STG5ad1nmema9wFm3X7Fw/pubhtml?widget=true&amp;headers=false" width="100%" height="600"></iframe>
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=650" width="100%" height="650" frameborder="0"></iframe>
+                                
