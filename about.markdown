@@ -4,18 +4,18 @@ title: About
 permalink: /about/
 ---
 ### Why
-In the face of the impending challenge of feeding a growing global population, one-third of all food produced ends up as waste.
-A notable contributor to this problem is the wastage of a third of perfectly edible and nutritious fresh produce because they do not meet the high cosmetic standards expected by consumers.
-Eliminating this wastage of imperfect produce is therefore a crucial and sustainable means to increase food supply for a growing global population.
-This can be achieved through automated sorting of good, bad and imperfect produce using automation , robotics and machine vision. 
+Detroit's K-12 education system faces significant challenges in technology literacy and readiness:
+
+Digital Divide: Prior to 2020, a substantial number of Detroit Public Schools Community District (DPSCD) students lacked access to personal computing devices and reliable internet at home. In response, the Connected Futures initiative provided over 44,000 students with wireless tablets and internet access to bridge this gap. 
+
+Inspite of such initiatives, in the 2023-24 school year, only 15.9% of students in grades 3-8 achieved proficiency in English Language Arts, and 11.0% in Math. (Source: NATIONAL CENTER FOR EDUCATION STATISTICS). Over the past five years, the percentage of high school students considered college-ready has decreased from 40% to 36%. 
+
+These statistics highlight the critical need for enhanced technology literacy programs and resources to support Detroit's students in being ready for careers in technology and STEM.
+
 
 ### What
-This goal of the project is to develop a machine vision enabled robotic work cell for sorting and saving imperfect produce.
-Given our location in Detroit, we are starting with a pilot project to serve fresh produce in the city of Detroit, which is an unqualified food dessert. Our specific and measurable goals are:
-- Create a fully functioning robotic sorter for carrots and strawberries
-- Partner with at least 5 local farms for saving imperfect produce
-- Serve at least 5,000 boxes of fresh produce in Detroit by Thanksgiving (11/28/24)
-- Develop a sustainbale and viable distribution system in Detorit to eliminate food dessert zones
+LIME Lab was started in Detroit with the goal to provide technology training to kids in the city of Detroit. Since 2015, we have taught over 1200 kids. We have partnered with local institutions like the Detroit Public Library, The Michigan Science Center, and The Michigan Council of Women In Technology.
+
   
 ### Current Status
 For current status of this project, [click here]({{ "/" | relative_url }})
