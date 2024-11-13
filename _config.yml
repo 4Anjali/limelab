@@ -52,8 +52,8 @@ plugins:
 #
  exclude:
 #   - .sass-cache/
-   - test.txt
-   - tracker.markdown
+#   - test.txt
+#   - tracker.markdown
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
