@@ -51,7 +51,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
  exclude:
-   - .sass-cache/
+#   - .sass-cache/
    - test.txt
    - tracker.markdown
 #   - .jekyll-cache/
