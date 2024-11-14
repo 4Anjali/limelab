@@ -15,4 +15,4 @@ permalink: /
 
 ### Future Work:
 - Building Online training platform and career-focused pathways.
-- Portal under development at learn.limelab.org. To be launched in Summer of 2025.
+- Portal under development at [learn.limelab.org](https://learn.limelab.org). To be launched in Summer of 2025.
