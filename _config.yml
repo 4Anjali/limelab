@@ -41,6 +41,11 @@ plugins:
   - jekyll-feed
   - jekyll/tagging
 
+# Navigation order of Menu
+nav_order:
+  - About
+  - Timeline
+  - Status
 
 # Exclude from processing.
 # The following items will not be processed, by default.
