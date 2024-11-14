@@ -7,7 +7,7 @@ permalink: /
 ### Completed:
 - Taught over 1,000 students in person over the past appx. 10 years.
 - Outreach through various events to over 5,000 students.
-- Partnerships with local institutions in Detroit like the Michigan Science Center, Detroit Public Library, & MCWT.
+- Partnerships with local institutions in Detroit like the Michigan Science Center, Detroit Public Library, and MCWT.
 
 ### Work In Process Tasks:
 - Providing pro-bono programs customized to girls in Detroit
