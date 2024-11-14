@@ -43,9 +43,12 @@ plugins:
 
 # Navigation order of Menu
 nav_order:
-  - About
-  - Timeline
-  - Status
+  - title: "About"
+    url: /about
+  - title: "Timeline"
+    url: /timeline
+  - title: "Status"
+    url: /status
 
 # Exclude from processing.
 # The following items will not be processed, by default.
