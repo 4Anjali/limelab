@@ -18,4 +18,3 @@ We started LIME Lab in Detroit in 2015, with the goal to provide technology trai
   
 ### Current Status
 For current status of this project, [click here]({{ "/" | relative_url }})
-Click here to see how you can contribute to this project - .
