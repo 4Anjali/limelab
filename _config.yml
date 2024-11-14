@@ -41,15 +41,6 @@ plugins:
   - jekyll-feed
   - jekyll/tagging
 
-# Navigation order of Menu
-nav_order:
-  - title: "About"
-    url: /about
-  - title: "Timeline"
-    url: /timeline
-  - title: "Status"
-    url: /status
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
