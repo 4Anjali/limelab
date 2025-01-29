@@ -10,7 +10,7 @@ permalink: /
 - Partnerships with local institutions in Detroit like the Michigan Science Center, Detroit Public Library, and MCWT.
 
 ### Work In Process Tasks:
-- Providing pro-bono programs customized to girls in Detroit
+- Providing pro-bono STEM programs customized to girls in Detroit
 - Providing pro-boon technology training to K12 kids in Detroit
 
 ### Future Work:
